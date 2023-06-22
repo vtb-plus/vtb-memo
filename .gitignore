@@ -1,6 +1,11 @@
 # video
 *.mp4
+*.flv
+*.mp3
 
 #
 *.png
 *.jpg
+*.gif
+*.webp
+*.psd

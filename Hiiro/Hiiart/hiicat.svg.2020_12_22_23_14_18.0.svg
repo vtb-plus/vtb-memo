@@ -1,0 +1,2907 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="546"
+   height="546"
+   id="chaSvgSave"
+   version="1.1"
+   sodipodi:docname="hiicat.svg">
+  <metadata
+     id="metadata6260">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview6258"
+     showgrid="false" />
+  <g
+     width="546"
+     height="546"
+     transform="translate(37.3191,37.3191)"
+     id="chaSvgClip"
+     inkscape:label="#chaSvgClip">
+    <g
+       width="546"
+       height="546"
+       id="chaSvgMake">
+      <g
+         id="lcart_chara"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.9427236)" />
+      <g
+         id="lcart_ef_r"
+         paramParts="1"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.9427236)">
+        <g
+           id="x001" />
+      </g>
+      <g
+         id="lcart_wing_r"
+         paramParts="1"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.9427236)">
+        <g
+           id="g5437" />
+      </g>
+      <g
+         id="lcart_right"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.9427236)" />
+      <g
+         id="lcart_hair3"
+         paramParts="31"
+         paramTx="0"
+         paramTy="-1"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="matrix(0.94272363,0,0,0.94272363,0,-0.94272363)">
+        <g
+           id="x031">
+          <g
+             id="g5457">
+            <g
+               id="g5447">
+              <path
+                 style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 168.528,211.241 c 0,0 -10.765,40.238 4.758,121.454 -18.137,-52.548 -19.529,-97.065 -6.871,-163.415"
+                 orgb=""
+                 ostroke=""
+                 id="path5441" />
+              <path
+                 style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 195.917,223.574 c 3.061,-42.664 9.423,-91.277 4.335,-94.225 -12.102,-7.015 -23.801,1.613 -29.703,11.876 -5.901,10.265 -9.6,47.719 -1.731,90.373 11.472,62.188 -33.186,163.986 14.783,188.115 -20.724,-21.973 -13.766,-64.064 -5.98,-101.077 3.858,-18.335 15.292,-53.188 18.296,-95.062 z"
+                 orgb=""
+                 ostroke=""
+                 id="path5443" />
+              <path
+                 style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 181.349,293.802 c -7.083,34.984 -11.444,79.518 5.79,99.791 -11.076,-7.933 -18.575,-21.376 -19.774,-48.688"
+                 orgb=""
+                 ostroke=""
+                 id="path5445" />
+            </g>
+            <g
+               id="g5455">
+              <path
+                 style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 335.709,204.33 c 0,0 11.91,39.913 -1.286,121.54 16.628,-53.045 16.747,-97.584 2.198,-163.545"
+                 orgb=""
+                 ostroke=""
+                 id="path5449" />
+              <path
+                 style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 308.683,217.441 c -4.278,-42.559 -12.027,-90.97 -7.026,-94.063 11.896,-7.357 23.838,0.932 30.029,11.023 6.192,10.092 10.961,47.425 4.314,90.286 -9.689,62.49 37.858,162.971 -9.401,188.461 20.088,-22.556 11.93,-64.432 3.089,-101.206 -4.38,-18.218 -16.806,-52.73 -21.005,-94.501 z"
+                 orgb=""
+                 ostroke=""
+                 id="path5451" />
+              <path
+                 style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 325.252,287.224 c 8.08,34.768 13.713,79.158 -2.936,99.915 10.846,-8.245 17.957,-21.897 18.374,-49.233"
+                 orgb=""
+                 ostroke=""
+                 id="path5453" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="lcart_hat_r"
+         paramParts="1"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="g5461" />
+      </g>
+      <g
+         id="lcart_hat2_r"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.9427236)" />
+      <g
+         id="lcart_hair2"
+         paramParts="2"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="x002">
+          <g
+             id="g5467">
+            <path
+               style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="M 324.986,175.515 C 324.995,175.266 325,175.08 325,175 l -0.089,0.015 c -1.828,-12.121 -4.246,-24.794 -8.914,-30.87 C 315.561,143.424 295,98 234.667,114.333 201.383,123.344 179.334,148.166 178,180.5 c 0.006,0.509 1,18.5 11.5,31 0.212,0.035 0.417,0.059 0.628,0.091 4.9,39.574 35.759,64.107 48.372,65.909 -2,-6.5 -4,-15.5 -2,-21 2,13.5 19.5,20.5 19.5,20.5 l 8,-22.5 c 0,0 6,5 12.5,15 13,-12 18.5,-34.5 18.5,-34.5 0,0 4,14 7.5,29 0,-3.5 13.5,-28.5 16.5,-43.5 9,-19.5 6.341,-42.615 5.986,-44.985 z"
+               orgb=""
+               ostroke=""
+               id="path5465" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="lcart_wing_f"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.9427236)" />
+      <g
+         id="lcart_outer_r"
+         paramParts="13"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="x013">
+          <path
+             style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 210.333,369 c 0,0 14.662,8.206 40,8.667 36.667,0.667 60,-10 60,-10 l -19.334,-116 34,-27.333 c 0,0 -12,-73.333 -14,-76 -2,-2.667 -24.666,-22.667 -59.333,-20 -34.667,2.667 -67.333,36 -67.333,36 l 6,72.667 L 231,259 Z"
+             id="path5472" />
+        </g>
+      </g>
+      <g
+         id="lcart_body_r"
+         paramParts="1"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.9427236)">
+        <g
+           id="g5482">
+          <g
+             id="g5480">
+            <path
+               style="fill:#fffafa;stroke:#dbb3b5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="m 245.5,264.75 c -15.819,7.285 -38.259,43.233 -52.833,73.25 L 208,343 c 14,-27 34.08,-52.306 37.75,-62.5 1.75,-8.25 3.25,-16.5 -0.25,-15.75 z"
+               id="path5476" />
+            <path
+               style="fill:#fffafa;stroke:#dbb3b5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="m 207.182,339.668 c 0,0 2.668,13.334 0.334,16 -2.334,2.666 -4.668,-5 -6.334,-5 -1.666,0 -14.666,8.333 -18.666,7.333 -2.334,-0.667 4.332,-15.667 11.666,-23"
+               id="path5478" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="lcart_bodypaint_r"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.9427236)">
+        <g
+           id="g5485" />
+      </g>
+      <g
+         id="lcart_arm_r"
+         paramParts="15"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.9427236)">
+        <g
+           id="x015">
+          <path
+             style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 216.768,335.793 c -1.572,1.763 -3.933,4.536 -3.933,4.536 0,0 1.227,2.843 -0.582,3.577 -1.81,0.733 -4.898,1.441 -4.898,1.441 0,0 -2.23,-3.888 -4.266,-4.696 -2.036,-0.811 -4.14,1.969 -6.416,0.387 -2.277,-1.583 -4.793,-3.939 -4.793,-3.939 0,0 -3.537,-2.631 -3.497,-4.682 0.04,-2.05 3.643,-2.747 3.667,-4.028 0.025,-1.282 -1.427,-5.666 0.121,-6.149 1.547,-0.483 4.111,-0.434 5.873,1.141 1.733,3.109 3.181,4.191 6.557,5.511 4.833,1.888 8.946,1.199 8.946,1.199 0,0 4.793,3.938 3.221,5.702 z"
+             id="path5488" />
+        </g>
+      </g>
+      <g
+         id="lcart_tops_r"
+         paramParts="16"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)" />
+      <g
+         id="lcart_left_r"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.94272363)">
+        <g
+           id="g5493" />
+      </g>
+      <g
+         id="lcart_body_f"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.9427236)">
+        <g
+           id="a001">
+          <g
+             id="g5518">
+            <g
+               id="g5514">
+              <g
+                 id="g5506">
+                <path
+                   style="fill:#fffafa;stroke:#dbb3b5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                   d="M 296.27,416.714 C 293.25,404.25 281.455,368.294 282.5,356 c 1,-11.75 -2.475,-26.893 -5.932,-32.058 -0.169,-7.144 1.248,-28.366 5.701,-34.729 4.667,-6.666 16.392,-8.197 15.897,-13.881 C 297.5,267.666 289,257.75 289,257.75 c -8,-8 -15.397,-9.535 -15.397,-9.535 v -8.001 l -18.333,10.333 c 0,0 -10.077,6.437 -21,21.333 -14.02,19.119 -25.666,61 -25.333,79.333 0.333,18.333 4.666,63 7.333,77.667 1.523,8.38 3.546,14.425 6.5,17.333 2.627,1.713 5.119,2.286 7.834,2 6.333,-0.667 6.666,-4.333 6.666,-4.333 0,0 -0.666,-14.667 0.334,-21.667 1,-7 6.666,-40 6.666,-58 0,-2.931 0.063,-5.905 0.166,-8.832 1.74,9.808 6.564,16.618 12.898,31.951 10.931,26.46 21.936,57.881 24.936,59.881 3,2 10.332,1.5 13,-1.333 2.667,-5.666 3.345,-19.484 1,-29.166 z"
+                   id="path5496" />
+                <line
+                   style="fill:none;stroke:#dbb3b5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                   x1="273.66699"
+                   y1="243"
+                   x2="273.66699"
+                   y2="250.33299"
+                   id="line5498" />
+                <path
+                   style="fill:#dbb3b5;stroke-width:3"
+                   d="m 268.333,244.583 c -4.577,2.747 -5.253,3.464 -12.416,6 -0.459,0.162 0.87,2.281 0.353,2.463 0,0.5 3.666,-0.833 7.333,-2.166 3.161,-1.149 7.234,-3.441 10.647,-2.452 v -6.462 c -1.437,0.392 -3.468,1.148 -5.917,2.617 z"
+                   id="path5500" />
+                <g
+                   id="g5504">
+                  <path
+                     style="fill:none;stroke:#dbb3b5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                     d="m 230,345.334 c 0,0 6,4.666 14.437,9.213"
+                     id="path5502" />
+                </g>
+              </g>
+              <path
+                 style="fill:#fffafa;stroke:#dbb3b5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 277.75,282.5 c 0,0 12.917,34.167 23.917,62.834 l 14.804,-3.486 C 310.859,318.905 301.1,278.667 296.036,268.214"
+                 id="path5508" />
+              <path
+                 style="fill:#fffafa;stroke:#dbb3b5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 301.348,343.765 c 0,0 -2.914,14.564 -0.365,17.476 2.55,2.912 5.099,-5.461 6.919,-5.461 1.819,0 16.019,9.102 20.388,8.01 2.55,-0.729 -4.731,-17.112 -12.742,-25.122"
+                 id="path5510" />
+              <path
+                 style="fill:none;stroke:#dbb3b5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 255.27,251.215 c 0,0 1.333,4.333 -1.334,8.333"
+                 id="path5512" />
+            </g>
+            <line
+               style="fill:none;stroke:#dbb3b5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               x1="240.05"
+               y1="318.25"
+               x2="240.05"
+               y2="318.60199"
+               id="line5516" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="lcart_bodypaint_f"
+         paramParts="1"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.9427236)" />
+      <g
+         id="lcart_arm_f"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.9427236)">
+        <g
+           id="a015">
+          <path
+             style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 293.747,339.205 c 1.226,2.019 3.044,5.175 3.044,5.175 0,0 -1.723,2.572 -0.077,3.623 1.646,1.05 4.555,2.307 4.555,2.307 0,0 2.899,-3.418 5.048,-3.844 2.148,-0.427 3.713,2.688 6.238,1.546 2.526,-1.144 5.429,-3.004 5.429,-3.004 0,0 3.956,-1.945 4.289,-3.969 0.333,-2.024 -3.083,-3.363 -2.875,-4.627 0.208,-1.266 2.432,-5.313 0.998,-6.069 -1.434,-0.757 -3.964,-1.173 -5.982,0.055 -2.27,2.743 -3.89,3.544 -7.448,4.229 -5.096,0.979 -9.016,-0.444 -9.016,-0.444 0,0 -5.429,3.002 -4.203,5.022 z"
+             id="path5523" />
+        </g>
+      </g>
+      <g
+         id="lcart_socks_r"
+         paramParts="1"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="g5527" />
+      </g>
+      <g
+         id="lcart_socks_f"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.94272363)" />
+      <g
+         id="lcart_bottoms"
+         paramParts="11"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="x011">
+          <g
+             id="g5573">
+            <path
+               style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="m 224,291.666 c 0,-1 -1,-6 -0.333,-7.333 0.667,-1.333 31.999,-3.167 58.333,5.167 -0.334,5.333 -1.334,11.5 -1.334,11.5 0,0 8.668,22.001 10.334,33.334 1.666,11.333 14.332,24 20.666,30 -5,0 -11.666,-4.334 -11.666,-4.334 0,0 4.332,7.667 0.666,7.667 -3.666,0 -12,-4.666 -13,-6.333 0.668,4 -9.666,11.667 -12.332,10 -2.668,-1.667 -12.334,-7.667 -12.334,-8.667 0,-1 -1,6.999 -3,6.333 -2,-0.666 -4.666,-6 -4.666,-6 0,0 -11,8 -16.667,6 -5.667,-2 -8,-9.333 -8,-9.333 0,0 -2.334,6.667 -4.667,5 -2.333,-1.667 0,-7.333 0,-7.333 0,0 -18.333,11.334 -20.333,7 -2,-4.334 3,-14.667 3,-14.667 0,0 -8,5.667 -8.667,4 -0.667,-1.667 5,-8 5,-8 0,0 -12.333,2.001 -14.667,-2.333 14,-10 33.667,-51.668 33.667,-51.668 z"
+               id="path5559" />
+            <g
+               id="g5565">
+              <path
+                 style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 231.285,314.544 c 0,0 16.195,-6.475 30.429,-9.087"
+                 id="path5561" />
+              <path
+                 style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 260.868,316.759 c 0,0 -15.05,-8.814 -28.737,-13.517"
+                 id="path5563" />
+            </g>
+            <g
+               id="g5571">
+              <path
+                 style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 229.551,331.21 c 0,0 16.195,-6.475 30.432,-9.087"
+                 id="path5567" />
+              <path
+                 style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 259.137,333.425 c 0,0 -15.052,-8.814 -28.739,-13.517"
+                 id="path5569" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="lcart_tops_f"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.94272363)">
+        <g
+           id="a016">
+          <path
+             style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 284.646,279.293 2.88,-3.589 c 0,0 -2.718,-3.682 -4.851,-5.895 -2.132,-2.215 -7.502,0.185 -7.502,0.185 0,0 -2.185,-1.709 -3.946,-3.276 -1.761,-1.566 -8.966,0.854 -8.966,0.854 0,0 -0.316,-0.314 -3.428,-2.138 -1.596,-0.934 -7.048,1.236 -9.646,1.229 -3.444,-1.804 -5.094,-2.041 -5.094,-2.041 l -5.281,1.643 -3.328,0.192 c 0,0 -5.24,-1.114 -5.823,0.34 -0.583,1.452 1.069,4.027 1.069,4.027 -5.08,7.39 -4.243,13.184 -4.243,13.184 l -3.211,2.19 c 0,0 2.523,3.193 4.891,3.723 2.368,0.53 6.284,-1.032 6.284,-1.032 0,0 2.739,1.177 4.442,1.745 1.703,0.569 7.263,-1.424 7.263,-1.424 0,0 4.442,1.746 6.439,1.63 1.996,-0.116 5.011,0.043 5.011,0.043 0,0 3.661,-0.213 5.715,0.669 2.056,0.883 5.695,0.338 5.695,0.338 0,0 5.325,-0.31 6.733,0.944 1.408,1.253 6.086,1.316 9.376,0.456 l -1.669,-5.746 z m -25.259,1.021 c -0.471,4.152 -3.919,4.399 -6.424,4.379 -2.506,-0.021 -9.718,-0.604 -9.718,-0.604 0,0 -3.287,-1.979 -3,-5.668 0.287,-3.689 4.909,-7.464 5.261,-7.15 0.353,0.313 1.671,2.908 1.671,2.908 l 6.695,0.278 3.367,-2.366 c -10e-4,0 2.699,3.349 2.148,8.223 z"
+             id="path5577" />
+        </g>
+      </g>
+      <g
+         id="lcart_outer_f"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.94272363)">
+        <g
+           id="a013">
+          <path
+             style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 227.5,261.5 c 0,0 -14.5,12 -17,18 -1.308,3.138 -6.5,15 -18,33 C 174,325.5 172,330 172,330 c 0,0 5,22 27.5,26 C 225,310 239,266.5 239,266.5 Z"
+             id="path5581" />
+          <path
+             style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 242.5,272.5 c 0,0 -12,37 -13,43.5 -1,6.5 -13,44 -13,44 0,0 -2,10.5 -3.5,15 -2.5,0.5 -20,-11 -21.5,-16 2,-4.5 6,-10 6,-10 0,0 -3,-5.5 -2.5,-14 3,-5.5 11,-22 17.5,-31.5 6.5,-9.5 13,-34.5 17.5,-39 6.5,3.5 12.5,8 12.5,8 z"
+             id="path5583" />
+          <path
+             style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 259.5,274 c 0,0 6.5,30.5 7,45 0.5,14.5 18.5,42.5 18.5,42.5 0,0 4,12 5.5,14 11.5,0.5 36.5,-8 44,-15.5 -1.5,-5.5 -4.5,-11.5 -4.5,-11.5 0,0 3,-10.5 3,-15 0,-4.5 -18.5,-16.5 -24,-24 C 303.5,302 292.5,257 292.5,257 Z"
+             id="path5585" />
+          <polygon
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             points="267.5,285.834 285.25,282.501 286.632,288.333 268.75,291.501 "
+             id="polygon5587" />
+          <g
+             id="g5595">
+            <path
+               style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="m 310,268 c 0,0 -17.975,-6.51 -24.298,-8.637 L 296.5,314.5 c 5,13.5 6.354,23.553 10.5,32.5 17.641,-10.831 24,-11 32.5,-32.5 C 338.836,312.768 310,268 310,268 Z"
+               id="path5589" />
+            <path
+               style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="m 301,310.5 c 0,0 7,-8 9,-9"
+               id="path5591" />
+            <path
+               style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="m 296.5,314.5 c 0,0 7.5,-6 10,-6.5 2.5,-0.5 19,6.5 19,6.5"
+               id="path5593" />
+          </g>
+          <path
+             style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="M 331.131,146.765 C 333.7,133.91 333.252,106.802 326.5,79 300.27,86.911 278,97 268.326,103.596 243.5,102 224.5,106 224.5,106 c 0,0 -13.305,-10.963 -51.769,-18.977 -10.15,37.93 3.205,64.642 3.205,66.244 0,0 -15.963,59.439 0.064,95.232 15,11.5 64.5,10 64.5,10 0,0 -32.952,-15.883 -41.5,-25.499 -7.167,-16 -3.366,-56.65 2.511,-67.335 14.958,-14.958 26.267,-18.956 46.546,-20.369 32.943,-2.296 51.287,16.561 51.287,16.561 0,0 12.323,42.477 7.656,67.81 C 288.903,248.292 266.5,256 266.5,256 c 0,0 65.605,-0.16 82.167,-23.667 0,0 6.333,-34 -17.536,-85.568 z"
+             id="path5597" />
+          <path
+             style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 223.667,253 -9.167,16.5 c 0,0 14.5,-4.5 18,-4 3.5,0.5 7.938,4.506 14.5,8.5 -1,-4.5 -0.833,-10.833 -6.333,-17.333 -3,-0.5 -17,-3.667 -17,-3.667 z"
+             id="path5599" />
+          <path
+             style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 266,257.5 c 0,0 -6,11 -8,17 7,-4.5 18,-10.5 28,-13.5 7.364,3.398 18,1.5 25,7.5 0,0 -17.5,-20.5 -20.5,-21 -3,-0.5 -19,4.5 -24.5,10 z"
+             id="path5601" />
+          <path
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 184,143.5 c -2,-8.5 -6.5,-20.5 -2,-36.5 11,4 27,15 27,15 z"
+             id="path5603" />
+          <path
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="M 286.939,115.297 C 290.5,110.5 304.5,101 317,99.5 c 0.5,16 -2.58,34.02 -2.58,34.02 z"
+             id="path5605" />
+          <path
+             style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 293.5,312 c 0,0 19.5,14 23.5,32.5 -3.5,3.5 -9,8 -9,8 L 293,332"
+             id="path5607" />
+          <polygon
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             points="253.893,271.5 257.268,274.41 256.491,300.209 244.637,299.433 241.167,294.39 246.083,271.5 "
+             id="polygon5609" />
+          <circle
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             cx="248.25"
+             cy="289.25"
+             r="3.25"
+             id="circle5611" />
+        </g>
+      </g>
+      <g
+         id="lcart_ear_r"
+         paramParts="1"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="g5617">
+          <path
+             style="fill:#fffafa;stroke:#dbb3b5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 208.42,212.535 c 0,0 -7.362,-8.414 -13.378,-3.744 -6.016,4.67 -3.25,26.168 10.244,29.365 9.232,2.188 11.58,-6.121 11.58,-6.121"
+             id="path5615" />
+        </g>
+      </g>
+      <g
+         id="lcart_hair4_r"
+         paramParts="1"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="g5620" />
+      </g>
+      <g
+         id="lcart_facepaint"
+         paramParts="1"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="g5630" />
+      </g>
+      <g
+         id="lcart_mouth"
+         paramParts="13"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="g5635">
+          <path
+             style="fill:none;stroke:#dbb3b5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 244.448,239.595 c -0.014,0.233 -0.105,4.284 5.402,3.528 4.284,-0.588 4.803,-3.295 4.803,-3.295 0,0 1.991,2.481 5.72,2.144 4.629,-0.419 4.161,-4.271 4.161,-4.271"
+             id="path5633" />
+        </g>
+      </g>
+      <g
+         id="lcart_ear_f"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.94272363)">
+        <g
+           id="g5649">
+          <g
+             id="g5647">
+            <g
+               id="g5645">
+              <path
+                 style="fill:#fffafa;stroke:#dbb3b5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 d="m 303.686,201.547 c 0,0 5,-10 12,-7 7,3 9.75,24.5 -2.5,31 -8.381,4.447 -12.75,-3 -12.75,-3"
+                 id="path5643" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="lcart_hair4_f"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.94272363)">
+        <g
+           id="g5652" />
+      </g>
+      <g
+         id="lcart_eye_r"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol="#FFB5B2"
+         paramColFrom="#FFB5B2"
+         paramColTo="#FFB5B2"
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.94272363)">
+        <g
+           id="x019">
+          <g
+             id="g5690">
+            <g
+               id="g5678">
+              <g
+                 id="g5676">
+                <path
+                   style="fill:#3f3f3f;stroke-width:3"
+                   d="m 275.063,201.532 c -6.787,0.773 -11.642,7.087 -10.843,14.105 0.011,0.103 0.028,0.205 0.042,0.307 l 24.422,-3.913 c -1.16,-6.594 -7.095,-11.242 -13.621,-10.499 z"
+                   id="path5670" />
+                <path
+                   style="fill:#ffb5b2;stroke-width:3"
+                   d="m 288.684,212.031 -24.422,3.913 c 0.943,6.855 7.01,11.759 13.698,10.998 6.787,-0.774 11.643,-7.088 10.845,-14.104 -0.033,-0.273 -0.073,-0.541 -0.121,-0.807 z"
+                   orgb="rgb(0, 217, 255)"
+                   id="path5672" />
+                <path
+                   style="fill:#3f3f3f;stroke-width:3"
+                   d="m 266.531,217.1 c -0.91,-7.164 3.047,-13.568 8.841,-14.305 5.792,-0.736 11.227,4.475 12.135,11.64 0.427,3.349 -0.212,6.532 -1.604,9.048 3.232,-3.161 5.002,-7.958 4.354,-13.057 -1.052,-8.274 -8.07,-14.199 -15.679,-13.232 -7.607,0.968 -12.923,8.458 -11.87,16.733 0.67,5.266 3.758,9.577 7.874,11.768 -2.097,-2.099 -3.607,-5.115 -4.051,-8.595 z"
+                   id="path5674" />
+              </g>
+            </g>
+            <g
+               id="g5688">
+              <g
+                 id="g5686">
+                <path
+                   style="fill:#3f3f3f;stroke-width:3"
+                   d="m 233.973,217.431 c -1.814,-6.825 -8.131,-11.069 -14.106,-9.481 -5.877,1.563 -9.233,8.187 -7.615,14.897 l 22.09,-3.538 c -0.081,-0.624 -0.202,-1.251 -0.369,-1.878 z"
+                   id="path5680" />
+                <path
+                   style="fill:#ffb5b2;stroke-width:3"
+                   d="m 212.251,222.847 c 0.027,0.113 0.053,0.225 0.081,0.336 1.815,6.826 8.129,11.07 14.106,9.482 5.426,-1.443 8.706,-7.199 7.903,-13.356 z"
+                   orgb="rgb(0, 217, 255)"
+                   id="path5682" />
+                <path
+                   style="fill:#3f3f3f;stroke-width:3"
+                   d="m 214.472,224.32 c -1.804,-6.965 0.949,-13.862 6.147,-15.406 5.2,-1.544 10.875,2.849 12.679,9.814 0.843,3.256 0.689,6.498 -0.242,9.184 2.528,-3.584 3.498,-8.584 2.214,-13.539 -2.083,-8.045 -9.304,-12.921 -16.134,-10.893 -6.827,2.028 -10.675,10.193 -8.591,18.238 1.325,5.119 4.734,8.952 8.796,10.542 -2.203,-1.784 -3.995,-4.558 -4.869,-7.94 z"
+                   id="path5684" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="lcart_eye_f"
+         paramParts="19"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol="#FFB5B2"
+         paramColFrom="#FFB5B2"
+         paramColTo="#FFB5B2"
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="a019">
+          <g
+             id="g5722">
+            <path
+               style="fill:#3f3f3f;stroke-width:3"
+               d="m 260.875,207.25 c 0,0 3.875,-5.125 9.25,-6.875 5.375,-1.75 16.875,-2 21.375,0.75 4.5,2.75 2.25,19 0.25,21.25 5.625,-3.75 8.625,-16.75 5.125,-23.75 C 294,194.5 280.982,190.366 270,195.375 c -7.125,3.25 -9.125,11.875 -9.125,11.875 z"
+               id="path5718" />
+            <path
+               style="fill:#3f3f3f;stroke-width:3"
+               d="m 237.078,211.181 c 0,0 -4.566,-4.247 -9.856,-4.881 -5.291,-0.634 -15.929,1.437 -19.538,5.04 -3.608,3.604 1.627,19.089 3.907,20.893 -5.91,-2.545 -11.203,-14.692 -9.343,-22.263 1.844,-4.625 13.027,-11.301 24.115,-8.599 7.194,1.753 10.715,9.81 10.715,9.81 z"
+               id="path5720" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="lcart_eyeblow"
+         paramParts="2"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="g5732">
+          <g
+             id="g5730">
+            <path
+               style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="m 262.555,175.088 c 0,0 6.07,-2.713 16.026,0.32"
+               orgb=""
+               ostroke=""
+               id="path5726" />
+            <path
+               style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="m 229.876,179.252 c 0,0 -7.709,-1.752 -15.89,2.106"
+               orgb=""
+               ostroke=""
+               id="path5728" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="lcart_glass"
+         paramParts="1"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="g5735" />
+      </g>
+      <g
+         id="lcart_hat_f"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.94272363)" />
+      <g
+         id="lcart_hat2_f"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.9427236)" />
+      <g
+         id="lcart_hair5"
+         paramParts="1"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="g5740" />
+      </g>
+      <g
+         id="lcart_left_f"
+         paramParts="1"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="scale(0.94272363)">
+        <g
+           id="g5743" />
+      </g>
+      <g
+         id="lcart_ef_f"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="scale(0.9427236)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="Layer 1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="鞋子"
+     transform="translate(37.3191,37.3191)"
+     style="display:inline">
+    <g
+       id="lcart_shoes"
+       paramParts="9"
+       paramTx="0"
+       paramTy="0"
+       paramScx="0.9427235999999999"
+       paramScy="0.9427235999999999"
+       paramRev="0"
+       paramScale="1"
+       paramCol=""
+       paramColFrom=""
+       paramColTo=""
+       paramColLFrom=""
+       paramColLTo=""
+       paramColRFrom=""
+       paramColRTo=""
+       paramPtn=""
+       paramPrev="1"
+       paramPtnMode="0"
+       paramSW="3"
+       transform="scale(0.94272363)">
+      <g
+         id="x009">
+        <g
+           id="g5542">
+          <path
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 298.303,436.104 1.004,-23.374 -2.597,-2.146 -1.312,1.787 c 0,0 -1.148,2.129 -12.748,3.954 -10.24,1.611 -14.347,-0.477 -14.347,-0.477 l -0.714,-2.265 c 0,0 -1.311,2.264 -1.43,3.455 -0.119,1.192 8.289,15.73 9.361,17.755 0.231,1.116 0.723,2.771 1.328,4.539 h 22.016 c -0.29,-1.847 -0.561,-3.228 -0.561,-3.228 z"
+             orgb="rgb(63, 63, 63)"
+             ostroke="rgb(102, 102, 102)"
+             id="path5530" />
+          <path
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 299.57,439.333 c -1.269,3.703 -1.042,7.918 -2.01,8.806 -1.43,1.312 -18.204,1.191 -20.587,-0.238 -0.36,-1.803 0.135,-5.736 0.581,-8.567 h 22.016 z"
+             orgb="rgb(63, 63, 63)"
+             ostroke="rgb(102, 102, 102)"
+             id="path5532" />
+          <path
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 266.756,421.926 c 0,0 0.597,3.336 1.311,3.692 0.716,0.357 5.123,0 5.123,0 0,0 0.072,-3.575 -0.286,-3.813 -0.358,-0.237 -6.148,0.121 -6.148,0.121 z"
+             orgb="rgb(63, 63, 63)"
+             ostroke="rgb(102, 102, 102)"
+             id="path5534" />
+          <path
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 300.954,417.926 c 0,0 -0.421,3.336 -0.928,3.692 -0.505,0.357 -2.409,0.285 -2.409,0.285 0,0 -0.05,-3.576 0.201,-3.813 0.254,-0.237 3.136,-0.164 3.136,-0.164 z"
+             orgb="rgb(63, 63, 63)"
+             ostroke="rgb(102, 102, 102)"
+             id="path5536" />
+          <path
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 277.001,443.3 c 0,0 1.393,-1.951 2.231,-2.429 0.838,-0.478 17.217,-1.477 17.937,-1.357 0.719,0.118 2.277,2.263 2.277,2.263 0,0 -0.24,-3.099 -0.599,-3.574 -0.359,-0.476 -1.247,-1.668 -1.967,-1.668 -0.719,0 -17.289,1.356 -17.648,1.356 -0.359,0 -2.639,1.79 -2.757,2.623 -0.119,0.833 0.526,2.786 0.526,2.786 z"
+             orgb="rgb(63, 63, 63)"
+             ostroke="rgb(102, 102, 102)"
+             id="path5538" />
+          <path
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 280.525,441.465 c -0.179,0.061 -1.31,-3.752 -1.013,-4.05 0.298,-0.298 2.146,-0.656 2.384,-0.418 0.238,0.239 1.191,3.812 0.953,4.111 -0.238,0.299 -2.324,0.357 -2.324,0.357 z"
+             orgb="rgb(63, 63, 63)"
+             ostroke="rgb(102, 102, 102)"
+             id="path5540" />
+        </g>
+        <g
+           id="g5554">
+          <path
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 212.59,413.584 c 0,0 -1.311,2.264 -1.43,3.455 -0.119,1.192 4.289,15.73 5.361,17.755 0.715,3.454 1.907,12.033 3.338,13.345 1.43,1.312 16.204,1.191 18.587,-0.238 0.595,-2.979 -1.144,-11.797 -1.144,-11.797 l 4.004,-20.374 -0.597,-2.146 -1.312,1.787 c 0,0 -2.382,0.954 -12.748,0.954 -10.366,0 -13.347,-0.477 -13.347,-0.477 z"
+             orgb="rgb(63, 63, 63)"
+             ostroke="rgb(102, 102, 102)"
+             id="path5544" />
+          <path
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 211.756,421.926 c 0,0 0.597,3.336 1.311,3.692 0.716,0.357 5.123,0 5.123,0 0,0 0.072,-3.575 -0.286,-3.813 -0.358,-0.237 -6.148,0.121 -6.148,0.121 z"
+             orgb="rgb(63, 63, 63)"
+             ostroke="rgb(102, 102, 102)"
+             id="path5546" />
+          <path
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 240.954,421.926 c 0,0 -0.421,3.336 -0.928,3.692 -0.505,0.357 -2.409,0.285 -2.409,0.285 0,0 -0.05,-3.576 0.201,-3.813 0.254,-0.237 3.136,-0.164 3.136,-0.164 z"
+             orgb="rgb(63, 63, 63)"
+             ostroke="rgb(102, 102, 102)"
+             id="path5548" />
+          <path
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 218.001,443.3 c 0,0 1.393,-1.951 2.231,-2.429 0.838,-0.478 15.217,-0.477 15.937,-0.357 0.719,0.118 2.277,2.263 2.277,2.263 0,0 -0.24,-3.099 -0.599,-3.574 -0.359,-0.476 -1.247,-1.668 -1.967,-1.668 -0.719,0 -15.289,0.356 -15.648,0.356 -0.359,0 -2.639,1.79 -2.757,2.623 -0.119,0.833 0.526,2.786 0.526,2.786 z"
+             orgb="rgb(63, 63, 63)"
+             ostroke="rgb(102, 102, 102)"
+             id="path5550" />
+          <path
+             style="fill:#ffffff;stroke:#c7d9e8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 221.525,441.465 c -0.179,0.061 -1.31,-3.752 -1.013,-4.05 0.298,-0.298 2.146,-0.656 2.384,-0.418 0.238,0.239 1.191,3.812 0.953,4.111 -0.238,0.299 -2.324,0.357 -2.324,0.357 z"
+             orgb="rgb(63, 63, 63)"
+             ostroke="rgb(102, 102, 102)"
+             id="path5552" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="身体"
+     style="display:inline">
+    <g
+       id="lcart_face"
+       paramParts="1"
+       paramTx="0"
+       paramTy="0"
+       paramScx="0.9427235999999999"
+       paramScy="0.9427235999999999"
+       paramRev="0"
+       paramScale="1"
+       paramCol=""
+       paramColFrom=""
+       paramColTo=""
+       paramColLFrom=""
+       paramColLTo=""
+       paramColRFrom=""
+       paramColRTo=""
+       paramPtn=""
+       paramPrev="0"
+       paramPtnMode="0"
+       paramSW="3"
+       transform="matrix(0.94272363,0,0,0.94272363,37.3191,37.3191)">
+      <g
+         id="g5627">
+        <g
+           id="g5625">
+          <path
+             style="fill:#fffafa;stroke:#dbb3b5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 202.5,211.17 c 0,0 2.17,27.71 11.67,33 8.45,4.71 28.83,10.66 44.66,7.66 17.67,-3.34 34.67,-9.93 42.42,-21.18 0,0 5.25,-11.9 4,-29.4 3.67,-14.67 7.02,-31.37 -6.98,-55.04 -14,-23.66 -41.279,-28.52 -62.669,-24.66 -20.33,3.66 -40.45,18.46 -43.33,50.66 -2.001,22.34 10.229,38.96 10.229,38.96 z"
+             id="path5623" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="眼睛-猫头瞳孔"
+     transform="translate(37.3191,37.3191)"
+     style="display:inline">
+    <g
+       id="lcart_eyelight"
+       paramParts="16"
+       paramTx="0"
+       paramTy="0"
+       paramScx="0.9427235999999999"
+       paramScy="0.9427235999999999"
+       paramRev="0"
+       paramScale="1"
+       paramCol="#ffffff"
+       paramColFrom="#ffffff"
+       paramColTo="#ffffff"
+       paramColLFrom=""
+       paramColLTo=""
+       paramColRFrom=""
+       paramColRTo=""
+       paramPtn=""
+       paramPrev="0"
+       paramPtnMode="0"
+       paramSW="3"
+       transform="scale(0.94272363)">
+      <g
+         id="x016">
+        <g
+           id="g5714">
+          <g
+             id="g5702">
+            <path
+               style="fill:#ffffff;stroke-width:3"
+               d="m 283.374,215.271 c 0.421,2.854 -2.126,4.944 -5.574,5.452 -3.446,0.508 -6.488,-0.758 -6.909,-3.612 -0.42,-2.854 1.938,-6.216 5.387,-6.724 3.447,-0.509 6.675,2.029 7.096,4.884 z"
+               orgb="rgb(255, 255, 255)"
+               id="path5694" />
+            <g
+               id="g5700">
+              <polygon
+                 style="fill:#ffffff;stroke-width:3"
+                 points="270.879,209.313 275.125,211.845 271.124,214.65 "
+                 orgb="rgb(255, 255, 255)"
+                 id="polygon5696" />
+              <polygon
+                 style="fill:#ffffff;stroke-width:3"
+                 points="281.136,207.802 277.8,211.451 282.441,212.982 "
+                 orgb="rgb(255, 255, 255)"
+                 id="polygon5698" />
+            </g>
+          </g>
+          <g
+             id="g5712">
+            <path
+               style="fill:#ffffff;stroke-width:3"
+               d="m 230.124,221.521 c 0.421,2.854 -2.126,4.944 -5.574,5.452 -3.446,0.508 -6.488,-0.758 -6.909,-3.612 -0.42,-2.854 1.938,-6.216 5.387,-6.724 3.447,-0.509 6.675,2.029 7.096,4.884 z"
+               orgb="rgb(255, 255, 255)"
+               id="path5704" />
+            <g
+               id="g5710">
+              <polygon
+                 style="fill:#ffffff;stroke-width:3"
+                 points="217.629,215.563 221.875,218.095 217.874,220.9 "
+                 orgb="rgb(255, 255, 255)"
+                 id="polygon5706" />
+              <polygon
+                 style="fill:#ffffff;stroke-width:3"
+                 points="227.886,214.052 224.55,217.701 229.191,219.232 "
+                 orgb="rgb(255, 255, 255)"
+                 id="polygon5708" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs6255">
+    <style
+       id="style5749">@font-face {	font-family: 'RondeB'; src: url('../font/Ronde-B_square.otf') format('opentype');}</style>
+    <pattern
+       id="cpattern001"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5758">
+        <g
+           id="001">
+          <g
+             id="g5755">
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="50"
+               height="50"
+               id="rect5751" />
+            <circle
+               style="fill:#FFFFFF;"
+               cx="119.5"
+               cy="119.5"
+               r="17.5"
+               id="circle5753" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern002"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5768">
+        <g
+           id="002">
+          <g
+             id="g5765">
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="50"
+               height="50"
+               id="rect5761" />
+            <circle
+               style="fill:#FFFFFF;"
+               cx="111.125"
+               cy="111.125"
+               r="11.625"
+               id="circle5763" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern003"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5784">
+        <g
+           id="003">
+          <g
+             id="g5781">
+            <g
+               id="g5773">
+              <rect
+                 x="94.5"
+                 y="94.5"
+                 style="fill:#3F3F3F;"
+                 width="50"
+                 height="50"
+                 id="rect5771" />
+            </g>
+            <g
+               id="g5779">
+              <circle
+                 style="fill:#FFFFFF;"
+                 cx="108"
+                 cy="107"
+                 r="7.5"
+                 id="circle5775" />
+              <circle
+                 style="fill:#FFFFFF;"
+                 cx="131"
+                 cy="132"
+                 r="7.5"
+                 id="circle5777" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern004"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5800">
+        <g
+           id="004">
+          <g
+             id="g5797">
+            <g
+               id="g5789">
+              <rect
+                 x="94.5"
+                 y="94.5"
+                 style="fill:#3F3F3F;"
+                 width="50"
+                 height="50"
+                 id="rect5787" />
+            </g>
+            <g
+               id="g5795">
+              <rect
+                 x="109.033"
+                 y="115.64"
+                 style="fill:#FFFFFF;"
+                 width="19.934"
+                 height="6.721"
+                 id="rect5791" />
+              <rect
+                 x="115.64"
+                 y="109.033"
+                 style="fill:#FFFFFF;"
+                 width="6.721"
+                 height="19.934"
+                 id="rect5793" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern005"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5814">
+        <g
+           id="005">
+          <g
+             id="g5811">
+            <g
+               id="g5805">
+              <rect
+                 x="94.5"
+                 y="94.5"
+                 style="fill:#FFFFFF;"
+                 width="50"
+                 height="50"
+                 id="rect5803" />
+            </g>
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="12.5"
+               height="50"
+               id="rect5807" />
+            <rect
+               x="119.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="12.55"
+               height="50"
+               id="rect5809" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern006"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5828">
+        <g
+           id="006">
+          <g
+             id="g5825">
+            <g
+               id="g5819">
+              <rect
+                 x="94.5"
+                 y="94.5"
+                 style="fill:#FFFFFF;"
+                 width="50"
+                 height="50"
+                 id="rect5817" />
+            </g>
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="50"
+               height="12.5"
+               id="rect5821" />
+            <rect
+               x="94.5"
+               y="119.5"
+               style="fill:#3F3F3F;"
+               width="50"
+               height="12.5"
+               id="rect5823" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern007"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5840">
+        <g
+           id="007">
+          <g
+             id="g5837">
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#FFFFFF;"
+               width="50"
+               height="50"
+               id="rect5831" />
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="50"
+               height="14"
+               id="rect5833" />
+            <rect
+               x="94.5"
+               y="130.5"
+               style="fill:#3F3F3F;"
+               width="50"
+               height="14"
+               id="rect5835" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern008"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5852">
+        <g
+           id="008">
+          <g
+             id="g5849">
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#FFFFFF;"
+               width="50"
+               height="50"
+               id="rect5843" />
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="14"
+               height="50"
+               id="rect5845" />
+            <rect
+               x="130.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="14"
+               height="50"
+               id="rect5847" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern009"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5868">
+        <g
+           id="009">
+          <g
+             id="g5865">
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="50"
+               height="50"
+               id="rect5855" />
+            <polygon
+               style="fill:#FFFFFF;"
+               points="119.5,94.5 94.5,119.5 94.5,107 107,94.5   "
+               id="polygon5857" />
+            <polygon
+               style="fill:#FFFFFF;"
+               points="144.5,94.5 94.5,144.5 94.5,132 132,94.5   "
+               id="polygon5859" />
+            <polygon
+               style="fill:#FFFFFF;"
+               points="144.5,107 144.5,119.5 119.5,144.5 107,144.5   "
+               id="polygon5861" />
+            <polygon
+               style="fill:#FFFFFF;"
+               points="144.5,132 144.5,144.5 132,144.5   "
+               id="polygon5863" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern010"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5882">
+        <g
+           id="010">
+          <g
+             id="g5879">
+            <polygon
+               style="fill:#3F3F3F;"
+               points="94.5,94.5 94.5,119.5 119.5,94.5   "
+               id="polygon5871" />
+            <polygon
+               style="fill:#FFFFFF;"
+               points="119.5,94.5 94.5,119.5 94.5,144.5 144.5,94.5   "
+               id="polygon5873" />
+            <polygon
+               style="fill:#3F3F3F;"
+               points="94.5,144.5 119.5,144.5 144.5,119.5 144.5,94.5   "
+               id="polygon5875" />
+            <polygon
+               style="fill:#FFFFFF;"
+               points="119.5,144.5 144.5,144.5 144.5,119.5   "
+               id="polygon5877" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern011"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5900">
+        <g
+           id="011">
+          <g
+             id="g5897">
+            <g
+               id="g5891">
+              <polygon
+                 style="fill:#3F3F3F;"
+                 points="138.717,123.066 131.934,116.454 141.307,115.092 144.5,108.623 144.5,94.5 126.302,94.5     127.887,103.737 119.5,99.329 111.114,103.737 112.7,94.5 94.5,94.5 94.5,144.5 144.5,144.5 144.5,128.521 137.115,132.402     "
+                 id="polygon5885" />
+              <polygon
+                 style="fill:#FFFFFF;"
+                 points="119.5,99.329 127.887,103.737 126.302,94.5 112.7,94.5 111.114,103.737    "
+                 id="polygon5887" />
+              <polygon
+                 style="fill:#FFFFFF;"
+                 points="141.307,115.092 131.934,116.454 138.717,123.066 137.115,132.402 144.5,128.521     144.5,108.623    "
+                 id="polygon5889" />
+            </g>
+            <polygon
+               style="fill:#FFFFFF;"
+               points="126.284,144.4 133.066,137.787 123.691,136.426 119.5,127.93 115.307,136.426    105.933,137.787 112.717,144.4 112.7,144.5 126.302,144.5   "
+               id="polygon5893" />
+            <polygon
+               style="fill:#FFFFFF;"
+               points="109.068,116.454 99.693,115.092 95.5,106.597 94.5,108.623 94.5,128.521 95.5,127.995    103.887,132.402 102.285,123.066   "
+               id="polygon5895" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern012"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5930">
+        <g
+           id="012">
+          <g
+             id="g5927">
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="50"
+               height="50"
+               id="rect5903" />
+            <g
+               id="g5925">
+              <g
+                 id="g5913">
+                <rect
+                   x="104.785"
+                   y="111.668"
+                   transform="matrix(0.7071 0.7071 -0.7071 0.7071 120.0333 -48.0278)"
+                   style="fill:#FFFFFF;"
+                   width="26.414"
+                   height="18.427"
+                   id="rect5905" />
+                <g
+                   id="g5911">
+                  <rect
+                     x="113.458"
+                     y="113.577"
+                     transform="matrix(0.7071 0.7071 -0.7071 0.7071 115.9608 -47.9633)"
+                     style="fill:#3F3F3F;"
+                     width="4.838"
+                     height="4.836"
+                     id="rect5907" />
+                  <rect
+                     x="120.417"
+                     y="120.538"
+                     transform="matrix(0.7069 0.7073 -0.7073 0.7069 122.97 -50.8453)"
+                     style="fill:#3F3F3F;"
+                     width="4.838"
+                     height="4.835"
+                     id="rect5909" />
+                </g>
+              </g>
+              <g
+                 id="g5923">
+                <rect
+                   x="116.389"
+                   y="102.109"
+                   transform="matrix(0.7071 0.7071 -0.7071 0.7071 109.2092 -53.6011)"
+                   style="fill:#FFFFFF;"
+                   width="5.835"
+                   height="5.836"
+                   id="rect5915" />
+                <rect
+                   x="130.897"
+                   y="116.662"
+                   transform="matrix(0.7071 0.7071 -0.7071 0.7071 123.7389 -59.597)"
+                   style="fill:#FFFFFF;"
+                   width="5.837"
+                   height="5.835"
+                   id="rect5917" />
+                <rect
+                   x="131.871"
+                   y="132.653"
+                   transform="matrix(0.7074 0.7069 -0.7069 0.7074 135.2743 -55.6025)"
+                   style="fill:#FFFFFF;"
+                   width="5.837"
+                   height="5.836"
+                   id="rect5919" />
+                <rect
+                   x="100.745"
+                   y="101.069"
+                   transform="matrix(0.7074 0.7069 -0.7069 0.7074 103.8412 -42.8438)"
+                   style="fill:#FFFFFF;"
+                   width="5.836"
+                   height="5.838"
+                   id="rect5921" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern013"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5954">
+        <g
+           id="013">
+          <g
+             id="g5951">
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="49.999"
+               height="50"
+               id="rect5933" />
+            <g
+               id="g5949">
+              <polygon
+                 style="fill:#FFFFFF;"
+                 points="113.538,117.747 113.538,133.441 99.5,122.734 99.5,129.875 119.5,144.5 119.5,117.747        "
+                 id="polygon5935" />
+              <polygon
+                 style="fill:#FFFFFF;"
+                 points="138.538,117.747 138.538,133.441 124.5,122.734 124.5,129.875 144.5,144.5 144.5,117.747        "
+                 id="polygon5937" />
+              <polygon
+                 style="fill:#FFFFFF;"
+                 points="107.842,94.5 107.842,119.499 94.5,109.743 94.5,102.812 101.88,108.441 101.88,94.5     "
+                 id="polygon5939" />
+              <polygon
+                 style="fill:#FFFFFF;"
+                 points="132.842,94.5 132.842,119.499 112.841,104.875 112.841,97.732 126.881,108.441     126.881,94.5    "
+                 id="polygon5941" />
+              <polygon
+                 style="fill:#FFFFFF;"
+                 points="144.499,102.812 144.499,109.742 137.842,104.875 137.842,97.732    "
+                 id="polygon5943" />
+              <rect
+                 x="101.88"
+                 y="142.748"
+                 style="fill:#FFFFFF;"
+                 width="5.961"
+                 height="1.752"
+                 id="rect5945" />
+              <rect
+                 x="126.881"
+                 y="142.748"
+                 style="fill:#FFFFFF;"
+                 width="5.961"
+                 height="1.752"
+                 id="rect5947" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern014"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5970">
+        <g
+           id="014">
+          <g
+             id="g5967">
+            <path
+               style="fill:#3F3F3F;"
+               d="M119.5,94.5v0.391c-8.352,0-12.594,4.77-16,8.605c-3.191,3.586-5.039,5.457-9,5.457V94.5H119.5z"
+               id="path5957" />
+            <path
+               style="fill:#3F3F3F;"
+               d="M128.5,135.504c-3.191-3.586-5.039-5.457-9-5.457c-3.957,0-5.809,1.871-8.996,5.457    c-3.406,3.836-7.648,8.605-16.004,8.605v0.391h25h25v-0.391C136.148,144.109,131.906,139.34,128.5,135.504z"
+               id="path5959" />
+            <path
+               style="fill:#3F3F3F;"
+               d="M144.5,94.5v14.453c-3.957,0-5.809-1.871-8.996-5.457c-3.406-3.836-7.648-8.605-16.004-8.605V94.5    H144.5z"
+               id="path5961" />
+            <path
+               style="fill:#FFFFFF;"
+               d="M144.5,108.953v35.156c-8.352,0-12.594-4.771-16-8.605c-3.191-3.586-5.039-5.457-9-5.457    c-3.957,0-5.809,1.871-8.996,5.457c-3.406,3.836-7.648,8.605-16.004,8.605v-35.156c3.961,0,5.809-1.871,9-5.457    c3.406-3.836,7.648-8.605,16-8.605c8.355,0,12.598,4.77,16.004,8.605C138.691,107.082,140.543,108.953,144.5,108.953z"
+               id="path5963" />
+            <path
+               style="fill:#3F3F3F;"
+               d="M144.5,116.766v19.531c-4.621,0-6.766-2.16-10.164-5.98c-3.363-3.789-7.18-8.082-14.836-8.082    c-7.652,0-11.469,4.293-14.836,8.082c-3.395,3.82-5.539,5.98-10.164,5.98v-19.531c7.656,0,11.473-4.293,14.836-8.082    c3.398-3.82,5.543-5.98,10.164-5.98c4.625,0,6.77,2.16,10.164,5.98C133.031,112.473,136.848,116.766,144.5,116.766z"
+               id="path5965" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern015"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g5988">
+        <g
+           id="015">
+          <g
+             id="g5985">
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="50"
+               height="50"
+               id="rect5973" />
+            <rect
+               x="113.641"
+               y="113.641"
+               style="fill:#3F3F3F;"
+               width="11.718"
+               height="11.718"
+               id="rect5975" />
+            <rect
+               x="108.953"
+               y="94.5"
+               style="fill:#FFFFFF;"
+               width="4.688"
+               height="30.859"
+               id="rect5977" />
+            <rect
+               x="113.641"
+               y="108.953"
+               style="fill:#FFFFFF;"
+               width="30.859"
+               height="4.688"
+               id="rect5979" />
+            <rect
+               x="125.359"
+               y="113.641"
+               style="fill:#FFFFFF;"
+               width="4.688"
+               height="30.859"
+               id="rect5981" />
+            <polygon
+               style="fill:#FFFFFF;"
+               points="94.5,130.047 125.359,130.047 125.359,125.359 113.641,125.359 108.953,125.359    94.5,125.359   "
+               id="polygon5983" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern016"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g6002">
+        <g
+           id="016">
+          <rect
+             x="94.5"
+             y="94.5"
+             style="fill:#3F3F3F;"
+             width="50"
+             height="50"
+             id="rect5991" />
+          <rect
+             x="98.162"
+             y="98.161"
+             transform="matrix(0.7071 -0.7071 0.7071 0.7071 -44.321 106.9973)"
+             style="fill:#FFFFFF;"
+             width="17.677"
+             height="17.678"
+             id="rect5993" />
+          <rect
+             x="98.161"
+             y="123.161"
+             transform="matrix(0.7071 -0.7071 0.7071 0.7071 -61.9984 114.3225)"
+             style="fill:#FFFFFF;"
+             width="17.678"
+             height="17.678"
+             id="rect5995" />
+          <rect
+             x="123.161"
+             y="98.161"
+             transform="matrix(0.7071 -0.7071 0.7071 0.7071 -36.9991 124.6743)"
+             style="fill:#FFFFFF;"
+             width="17.677"
+             height="17.678"
+             id="rect5997" />
+          <rect
+             x="123.161"
+             y="123.161"
+             transform="matrix(0.7071 -0.7071 0.7071 0.7071 -54.6763 131.9998)"
+             style="fill:#FFFFFF;"
+             width="17.678"
+             height="17.678"
+             id="rect5999" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern017"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g6030">
+        <g
+           id="017">
+          <g
+             id="g6027">
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="50"
+               height="50"
+               id="rect6005" />
+            <g
+               id="g6011">
+              <path
+                 style="fill:#FFFFFF;"
+                 d="M99.158,105.328c-0.297-0.217-0.574-0.641-0.791-0.883c-0.219-0.244-0.697-0.689-0.67-0.037     c0.027,0.652,0.775,5.5-1.375,5.182c-2.027-0.299-0.701-4.256-1.043-5.373c-0.301,0.211-0.539,0.52-0.779,0.834v-4.018     c0.17-0.244,0.342-0.488,0.518-0.721c0.75-0.994,1.113-1.176,2.08-0.305c0.705,0.637,1.381,1.469,1.979,2.207     c0.521,0.645,1.301,1.426,1.43,2.264C100.686,105.639,100.094,106.01,99.158,105.328z"
+                 id="path6007" />
+              <path
+                 style="fill:#FFFFFF;"
+                 d="M144.5,101.033v4.018c-0.32,0.416-0.648,0.84-1.139,1.053c-0.906,0.393-1.648-0.543-1.479-1.467     c0.166-0.879,1.016-1.492,1.549-2.143C143.813,102.033,144.156,101.527,144.5,101.033z"
+                 id="path6009" />
+            </g>
+            <path
+               style="fill:#FFFFFF;"
+               d="M117.522,125.045c0.027,0.653,0.776,5.5-1.374,5.184c-2.027-0.301-0.702-4.258-1.043-5.373    c-0.696,0.484-1.057,1.516-1.918,1.889c-0.905,0.393-1.647-0.543-1.474-1.471c0.165-0.879,1.011-1.488,1.544-2.142    c0.568-0.69,1.055-1.477,1.585-2.182c0.75-0.996,1.114-1.176,2.08-0.306c0.706,0.636,1.381,1.469,1.98,2.207    c0.521,0.645,1.301,1.426,1.43,2.264c0.18,1.16-0.412,1.531-1.348,0.85c-0.297-0.216-0.574-0.64-0.793-0.883    C117.974,124.839,117.495,124.393,117.522,125.045z"
+               id="path6013" />
+            <path
+               style="fill:#FFFFFF;"
+               d="M125.855,99.578c-1.145,0.898-1.922-2.129-2.682-1.785c-0.787,0.359,0.572,4.465-0.438,5.221    c-0.945,0.709-1.762,0.186-1.926-0.871c-0.084-0.553-0.086-1.248-0.109-1.809c-0.021-0.328,0.063-1.756-0.143-1.992    c-0.566-0.676-1.595,1.471-2.125,1.717c-0.451,0.211-0.949,0.141-1.221-0.359c-0.273-0.506,0.182-1.186,0.465-1.563    c0.699-0.928,1.168-1.488,1.875-2.525c0.232-0.344,0.523-0.75,0.82-1.111h2.678c0.328,0.385,0.697,0.857,1.152,1.369    C124.863,96.611,126.916,98.746,125.855,99.578z"
+               id="path6015" />
+            <path
+               style="fill:#FFFFFF;"
+               d="M123.055,144.5h-2.678c0.41-0.5,0.836-0.914,1.15-0.965    C122.061,143.449,122.498,143.85,123.055,144.5z"
+               id="path6017" />
+            <path
+               style="fill:#FFFFFF;"
+               d="M102.416,142.271c-0.948,0.711-1.76,0.187-1.923-0.871c-0.086-0.553-0.086-1.248-0.115-1.812    c-0.017-0.323,0.062-1.756-0.137-1.987c-0.571-0.682-1.596,1.469-2.129,1.717c-0.451,0.209-0.951,0.141-1.221-0.36    c-0.273-0.506,0.18-1.185,0.465-1.563c0.699-0.927,1.167-1.484,1.873-2.521c0.556-0.816,1.43-1.99,1.972-2.076    c0.849-0.136,1.459,0.957,2.68,2.335c0.656,0.74,2.708,2.876,1.648,3.708c-1.141,0.896-1.923-2.129-2.679-1.785    C102.061,137.41,103.423,141.516,102.416,142.271z"
+               id="path6019" />
+            <path
+               style="fill:#FFFFFF;"
+               d="M109.071,108.609c-0.043,1.017-0.025,2.783,0.039,3.47c0.079,0.835,0.648,1.479,1.579,1.163    c0.898-0.307,0.643-1.74,0.65-2.539c0.01-1.072,0.087-1.932,0.036-2.905c-0.065-0.969,1.616,1.553,2.303,1.95    c0.994,0.574,2.09-0.383,1.598-1.375c-0.449-0.906-1.383-1.588-2.042-2.343c-0.622-0.712-1.321-1.465-2.111-1.972    c-0.743-0.477-1.683,0.014-2.335,1.069c-0.602,0.974-1.432,1.815-2.139,2.7c-0.492,0.617-1.422,2.301,0.051,2.448    c1.176,0.118,1.531-1.575,2.178-2.085C109.045,108.059,109.073,108.553,109.071,108.609z"
+               id="path6021" />
+            <path
+               style="fill:#FFFFFF;"
+               d="M130.456,112.774c-0.519,0.549-1.124,1.037-1.638,1.602c-0.418,0.459-1.139,0.944-1.115,1.63    c0.025,0.731,0.977,0.972,1.523,0.771c0.778-0.287,1.225-0.932,1.811-1.427c0.326-0.394,0.122,1.463,0.146,1.889    c0.028,0.595,0.03,1.039,0,1.667c-0.057,0.971,0.238,2.994,1.735,2.275c0.782-0.377,0.435-2.272,0.396-3    c-0.021-0.503-0.021-0.984,0.002-1.478c0.021-0.452-0.151-0.909-0.139-1.343c0.377-0.03,0.93,0.855,1.215,1.092    c0.537,0.445,1.314,0.802,1.777,0.216c0.406-0.516,0.334-0.907-0.025-1.458c-0.271-0.411-0.658-0.848-1.023-1.187    c-0.488-0.451-1.006-0.923-1.438-1.422c-0.229-0.262-0.4-0.482-0.662-0.719C131.93,110.888,131.168,112.021,130.456,112.774z"
+               id="path6023" />
+            <path
+               style="fill:#FFFFFF;"
+               d="M137.338,132.631c0.4,1.063,1.055,5.422-0.74,5.342c-1.871-0.084-1.229-4.123-1.422-5.26    c-0.669,0.15-1.51,2.794-2.603,1.602c-0.964-1.051,0.436-2.395,1.088-3.105c0.586-0.646,1.771-2.729,2.591-2.643    c0.827,0.086,2.215,1.824,2.747,2.4c0.696,0.756,1.786,2.284,0.474,3.023c-0.512,0.131-1.463-1.854-1.953-1.508L137.338,132.631z"
+               id="path6025" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern018"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g6180">
+        <g
+           id="018">
+          <g
+             id="g6177">
+            <rect
+               x="94.5"
+               y="94.5"
+               width="50"
+               height="50"
+               id="rect6033" />
+            <rect
+               x="117.541"
+               y="97.58"
+               style="fill:none;"
+               width="18.709"
+               height="20.21"
+               id="rect6035" />
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#FFFFFF;"
+               width="19.961"
+               height="3.08"
+               id="rect6037" />
+            <rect
+               x="117.541"
+               y="94.5"
+               style="fill:#FFFFFF;"
+               width="18.709"
+               height="3.08"
+               id="rect6039" />
+            <rect
+               x="117.541"
+               y="117.79"
+               style="fill:#FFFFFF;"
+               width="18.709"
+               height="7.821"
+               id="rect6041" />
+            <rect
+               x="94.5"
+               y="117.79"
+               style="fill:#FFFFFF;"
+               width="19.961"
+               height="7.821"
+               id="rect6043" />
+            <rect
+               x="136.25"
+               y="125.611"
+               style="fill:#FFFFFF;"
+               width="8.25"
+               height="18.889"
+               id="rect6045" />
+            <rect
+               x="136.25"
+               y="97.58"
+               style="fill:#FFFFFF;"
+               width="8.25"
+               height="20.21"
+               id="rect6047" />
+            <rect
+               x="114.461"
+               y="125.611"
+               style="fill:#FFFFFF;"
+               width="3.08"
+               height="18.889"
+               id="rect6049" />
+            <rect
+               x="114.461"
+               y="97.58"
+               style="fill:#FFFFFF;"
+               width="3.08"
+               height="20.21"
+               id="rect6051" />
+            <g
+               id="g6167">
+              <g
+                 id="g6109">
+                <g
+                   id="g6081">
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,95 144,94.5 144.5,94.5      "
+                     id="polygon6053" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,97 142,94.5 143,94.5 144.5,96      "
+                     id="polygon6055" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,99 140,94.5 141,94.5 144.5,98      "
+                     id="polygon6057" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,101 138,94.5 139,94.5 144.5,100      "
+                     id="polygon6059" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,103 136,94.5 137,94.5 144.5,102      "
+                     id="polygon6061" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,105 134,94.5 135,94.5 144.5,104      "
+                     id="polygon6063" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,107 132,94.5 133,94.5 144.5,106      "
+                     id="polygon6065" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,109 130,94.5 131,94.5 144.5,108      "
+                     id="polygon6067" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,111 128,94.5 129,94.5 144.5,110      "
+                     id="polygon6069" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,113 126,94.5 127,94.5 144.5,112      "
+                     id="polygon6071" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,115 124,94.5 125,94.5 144.5,114      "
+                     id="polygon6073" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,117 122,94.5 123,94.5 144.5,116      "
+                     id="polygon6075" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,119 120,94.5 121,94.5 144.5,118      "
+                     id="polygon6077" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,121 118,94.5 119,94.5 144.5,120      "
+                     id="polygon6079" />
+                </g>
+                <g
+                   id="g6107">
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,123 116.001,94.5 117,94.5 144.5,122      "
+                     id="polygon6083" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,125 114,94.5 115,94.5 144.5,124      "
+                     id="polygon6085" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,127 112.001,94.5 113,94.5 144.5,126      "
+                     id="polygon6087" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,129 110,94.5 111,94.5 144.5,128      "
+                     id="polygon6089" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,131 108.001,94.5 109,94.5 144.5,130      "
+                     id="polygon6091" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,133 106,94.5 107,94.5 144.5,132      "
+                     id="polygon6093" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,135 104.001,94.5 105.001,94.5 144.5,134      "
+                     id="polygon6095" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,137 102,94.5 103,94.5 144.5,136      "
+                     id="polygon6097" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,139 100.001,94.5 101.001,94.5 144.5,138      "
+                     id="polygon6099" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,141 98,94.5 99,94.5 144.5,140      "
+                     id="polygon6101" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,143 96.001,94.5 97.001,94.5 144.5,142      "
+                     id="polygon6103" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="144.5,144.5 144,144.5 94.5,95 94.5,94.5 95,94.5 144.5,144      "
+                     id="polygon6105" />
+                </g>
+              </g>
+              <g
+                 id="g6165">
+                <g
+                   id="g6137">
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="143,144.5 142,144.5 94.5,97.001 94.5,96      "
+                     id="polygon6111" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="141,144.5 140,144.5 94.5,99 94.5,98      "
+                     id="polygon6113" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="139,144.5 138,144.5 94.5,101.001 94.5,100      "
+                     id="polygon6115" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="137,144.5 136,144.5 94.5,103 94.5,102      "
+                     id="polygon6117" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="135,144.5 134,144.5 94.5,105.001 94.5,104      "
+                     id="polygon6119" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="133,144.5 132,144.5 94.5,107 94.5,106      "
+                     id="polygon6121" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="131,144.5 130,144.5 94.5,109 94.5,108      "
+                     id="polygon6123" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="129,144.5 128,144.5 94.5,111 94.5,110      "
+                     id="polygon6125" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="127,144.5 126,144.5 94.5,113 94.5,112      "
+                     id="polygon6127" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="125,144.5 124,144.5 94.5,115 94.5,114      "
+                     id="polygon6129" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="123,144.5 122,144.5 94.5,117 94.5,116      "
+                     id="polygon6131" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="121,144.5 120,144.5 94.5,119 94.5,118      "
+                     id="polygon6133" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="119,144.5 118,144.5 94.5,121 94.5,120      "
+                     id="polygon6135" />
+                </g>
+                <g
+                   id="g6163">
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="117,144.5 116,144.5 94.5,123 94.5,122      "
+                     id="polygon6139" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="115,144.5 114,144.5 94.5,125 94.5,124      "
+                     id="polygon6141" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="113,144.5 112,144.5 94.5,127 94.5,126      "
+                     id="polygon6143" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="111,144.5 110,144.5 94.5,129 94.5,128      "
+                     id="polygon6145" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="109,144.5 108,144.5 94.5,131 94.5,130      "
+                     id="polygon6147" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="107,144.5 106,144.5 94.5,133 94.5,131.999      "
+                     id="polygon6149" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="105,144.5 104,144.5 94.5,135 94.5,134      "
+                     id="polygon6151" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="103.001,144.5 102,144.5 94.5,137 94.5,136      "
+                     id="polygon6153" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="101,144.5 100,144.5 94.5,139 94.5,138      "
+                     id="polygon6155" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="99.001,144.5 98,144.5 94.5,141 94.5,139.999      "
+                     id="polygon6157" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="97,144.5 96,144.5 94.5,143 94.5,142      "
+                     id="polygon6159" />
+                  <polygon
+                     style="fill:#3F3F3F;"
+                     points="95.001,144.5 94.5,144.5 94.5,143.999      "
+                     id="polygon6161" />
+                </g>
+              </g>
+            </g>
+            <rect
+               x="136.25"
+               y="94.5"
+               style="fill:#FFFFFF;"
+               width="8.25"
+               height="3.08"
+               id="rect6169" />
+            <rect
+               x="136.25"
+               y="117.79"
+               style="fill:#FFFFFF;"
+               width="8.25"
+               height="7.821"
+               id="rect6171" />
+            <rect
+               x="114.461"
+               y="94.5"
+               style="fill:#FFFFFF;"
+               width="3.08"
+               height="3.08"
+               id="rect6173" />
+            <rect
+               x="114.461"
+               y="117.79"
+               style="fill:#FFFFFF;"
+               width="3.08"
+               height="7.821"
+               id="rect6175" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern019"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g6202">
+        <g
+           id="019">
+          <g
+             id="g6199">
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="50"
+               height="50"
+               id="rect6183" />
+            <g
+               id="g6189">
+              <path
+                 style="fill:#3F3F3F;stroke:#666666;stroke-width:2.4066;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+                 d="     M108.108,106.499l-4.823,4.823c-2.663,2.663-2.663,6.979,0,9.643s6.98,2.664,9.643,0l4.822-4.822L108.108,106.499z"
+                 id="path6185" />
+              <path
+                 style="fill:#FFFFFF;stroke:#C7D9E8;stroke-width:2.4066;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+                 d="     M122.715,111.178c2.663-2.663,2.663-6.979-0.001-9.644c-2.661-2.663-6.979-2.663-9.642,0l-4.964,4.964l9.643,9.643     L122.715,111.178z"
+                 id="path6187" />
+            </g>
+            <g
+               id="g6197">
+              <circle
+                 style="fill:#FFFFFE;stroke:#C7D9E7;stroke-width:2.4066;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+                 cx="132.125"
+                 cy="131.328"
+                 r="6.125"
+                 id="circle6191" />
+              <ellipse
+                 style="fill:#FFFFFE;stroke:#C7D9E7;stroke-width:2.2892;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+                 cx="132.125"
+                 cy="130.542"
+                 rx="6.125"
+                 ry="5.542"
+                 id="ellipse6193" />
+              <line
+                 style="fill:none;stroke:#C7D9E7;stroke-width:2.4066;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+                 x1="126.334"
+                 y1="133.167"
+                 x2="137.834"
+                 y2="128.917"
+                 id="line6195" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern020"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g6230">
+        <g
+           id="020">
+          <g
+             id="g6227">
+            <g
+               id="g6221">
+              <path
+                 style="fill:#3F3F3F;"
+                 d="M131.844,94.5c0.18,1.511-0.058,2.761-0.396,3.682c-0.72,1.94-2.226,3.511-4.288,4.533v0.652     c0,2.103-1.723,3.825-3.833,3.825c-0.576,0-1.106-0.133-1.599-0.36v-2.735c-0.099-0.084-0.222-0.132-0.354-0.132     s-0.246,0.046-0.34,0.123v2.773c-0.478,0.208-0.995,0.331-1.543,0.331c-0.568,0-1.107-0.133-1.59-0.36v-2.735     c-0.096-0.086-0.218-0.132-0.359-0.132c-0.124,0-0.237,0.036-0.332,0.112v2.784c-0.473,0.208-0.994,0.331-1.542,0.331     c-2.11,0-3.833-1.723-3.833-3.825v-0.652c-2.063-1.022-3.567-2.593-4.277-4.533c-0.344-0.922-0.58-2.171-0.404-3.682H94.5v13.159     c0.165-0.007,0.329-0.018,0.494-0.018c0.104,0,0.198,0,0.313,0.011c1.438,0.037,2.848,0.358,4.183,0.936     c2.564,1.099,4.798,3.133,6.379,5.868c2.025,3.493,1.693,6.219,1.079,7.894c-0.72,1.94-2.225,3.512-4.288,4.533v0.652     c0,2.104-1.722,3.824-3.833,3.824c-0.577,0-1.107-0.133-1.599-0.359v-2.734c-0.095-0.084-0.218-0.133-0.351-0.133     s-0.246,0.047-0.341,0.123v2.773c-0.473,0.207-0.994,0.33-1.542,0.33c-0.17,0-0.33-0.033-0.494-0.06v13.2h50v-50H131.844z"
+                 id="path6205" />
+              <path
+                 style="fill:#FFFFFF;"
+                 d="M96.537,131.027v-2.772c0.095-0.077,0.208-0.123,0.341-0.123c0.132,0,0.256,0.048,0.351,0.132     v2.735c0.491,0.228,1.021,0.36,1.599,0.36c2.11,0,3.833-1.727,3.833-3.825v-0.652c2.063-1.022,3.568-2.593,4.288-4.532     c0.615-1.676,0.946-4.397-1.079-7.895c-1.581-2.735-3.815-4.77-6.379-5.868c-1.334-0.577-2.745-0.898-4.183-0.936     c-0.114-0.011-0.208-0.011-0.313-0.011c-0.166,0-0.33,0.011-0.494,0.018v13.177c0.288-0.069,0.608,0.021,0.778,0.319l1.325,2.291     c0.274,0.474-0.066,1.068-0.615,1.068H94.5v6.784c0.164,0.022,0.324,0.06,0.494,0.06     C95.543,131.359,96.063,131.236,96.537,131.027z M96.631,118.25c-0.184-1.385,0.14-2.789,1.131-3.546     c0.018-0.014,0.035-0.028,0.053-0.042c0.131-0.094,0.273-0.174,0.428-0.245c0.034-0.015,0.069-0.028,0.104-0.043     c0.332-0.134,0.695-0.231,1.132-0.24c1.694,0,3.578,2.11,3.975,3.729c0.521,2.101-1.382,4.175-3.53,3.71     C98.192,121.193,96.868,120.039,96.631,118.25z"
+                 id="path6207" />
+              <path
+                 style="fill:#3F3F3F;"
+                 d="M95.988,124.516c0.548,0,0.889-0.596,0.615-1.065l-1.325-2.291     c-0.17-0.302-0.49-0.394-0.778-0.319v3.684h1.488V124.516z"
+                 id="path6209" />
+              <path
+                 style="fill:#3F3F3F;"
+                 d="M99.925,121.572c2.148,0.465,4.051-1.609,3.53-3.71c-0.397-1.618-2.281-3.729-3.975-3.729     c-0.437,0.009-0.801,0.106-1.132,0.24c-0.035,0.015-0.07,0.028-0.104,0.043c-0.155,0.071-0.297,0.151-0.428,0.245     c-0.018,0.014-0.035,0.028-0.053,0.042c-0.991,0.757-1.314,2.161-1.131,3.546C96.868,120.039,98.192,121.193,99.925,121.572z"
+                 id="path6211" />
+              <path
+                 style="fill:#FFFFFF;"
+                 d="M107.559,98.182c0.71,1.94,2.215,3.511,4.277,4.533v0.652c0,2.103,1.723,3.825,3.833,3.825     c0.549,0,1.069-0.123,1.542-0.331v-2.784c0.095-0.076,0.208-0.112,0.332-0.112c0.142,0,0.264,0.046,0.359,0.132v2.735     c0.482,0.228,1.021,0.36,1.59,0.36c0.549,0,1.07-0.123,1.543-0.331v-2.773c0.094-0.077,0.207-0.123,0.34-0.123     s0.256,0.048,0.352,0.132v2.735c0.49,0.228,1.021,0.36,1.602,0.36c2.107,0,3.833-1.723,3.833-3.825v-0.652     c2.063-1.022,3.565-2.593,4.284-4.533c0.343-0.921,0.576-2.171,0.396-3.682h-3.805c-0.059,1.788-1.743,3.311-3.614,2.906     c-1.592-0.348-2.827-1.358-3.204-2.906h-4.126c-0.375,1.548-1.604,2.558-3.204,2.906c-1.872,0.405-3.549-1.117-3.605-2.906     h-3.131C106.979,96.011,107.215,97.26,107.559,98.182z M117.222,99.28l1.325-2.291c0.275-0.482,0.956-0.482,1.23,0l1.327,2.291     c0.273,0.474-0.063,1.069-0.615,1.069h-2.647C117.288,100.349,116.947,99.753,117.222,99.28z"
+                 id="path6213" />
+              <path
+                 d="M117.837,100.349h2.649c0.55,0,0.89-0.596,0.617-1.069l-1.331-2.291c-0.274-0.482-0.955-0.482-1.23,0l-1.325,2.291     C116.947,99.753,117.288,100.349,117.837,100.349z"
+                 id="path6215" />
+              <path
+                 d="M113.891,97.406c1.601-0.348,2.83-1.358,3.204-2.906h-6.809C110.342,96.289,112.019,97.811,113.891,97.406z"
+                 id="path6217" />
+              <path
+                 d="M124.425,97.406c1.871,0.405,3.556-1.118,3.614-2.906h-6.818C121.598,96.048,122.833,97.058,124.425,97.406z"
+                 id="path6219" />
+            </g>
+            <path
+               style="fill:#FFFFFF;"
+               d="M110.37,143.695c0.397-1.617,2.271-3.729,3.975-3.729c0.436,0.011,0.8,0.107,1.13,0.242    c0.036,0.015,0.071,0.026,0.105,0.043c0.154,0.07,0.297,0.151,0.428,0.246c0.019,0.014,0.036,0.028,0.054,0.043    c0.987,0.758,1.313,2.16,1.123,3.543c-0.019,0.146-0.057,0.278-0.089,0.416h4.126c-0.033-0.138-0.07-0.271-0.094-0.416    c-0.186-1.385,0.145-2.789,1.135-3.547c0.018-0.015,0.031-0.027,0.053-0.041c0.131-0.095,0.271-0.174,0.429-0.246    c0.034-0.015,0.069-0.026,0.104-0.043c0.332-0.133,0.691-0.229,1.133-0.24c1.689,0,3.576,2.111,3.975,3.729    c0.066,0.271,0.093,0.541,0.084,0.805h3.805c-0.146-1.234-0.563-2.641-1.475-4.211c-1.582-2.736-3.814-4.77-6.38-5.869    c-1.335-0.576-2.745-0.898-4.183-0.936c-0.114-0.01-0.209-0.01-0.313-0.01c-4.334,0-8.395,2.545-10.884,6.813    c-0.898,1.568-1.312,2.979-1.455,4.211h3.131C110.277,144.236,110.303,143.967,110.37,143.695z"
+               id="path6223" />
+            <path
+               style="fill:#FFFFFF;"
+               d="M143.338,124.516c-0.549,0-0.891-0.596-0.615-1.065l1.324-2.291    c0.105-0.188,0.273-0.276,0.453-0.319v-13.18c-4.146,0.186-7.996,2.691-10.391,6.796c-1.996,3.493-1.674,6.218-1.051,7.894    c0.711,1.94,2.215,3.512,4.274,4.533v0.652c0,2.104,1.728,3.824,3.833,3.824c0.549,0,1.066-0.123,1.543-0.33v-2.784    c0.098-0.076,0.208-0.112,0.332-0.112c0.145,0,0.268,0.047,0.355,0.133V131c0.34,0.159,0.711,0.25,1.1,0.305v-6.787h-1.161    L143.338,124.516L143.338,124.516z M139.391,121.572c-2.146,0.465-4.041-1.608-3.52-3.71c0.396-1.618,2.271-3.729,3.975-3.729    c0.438,0.009,0.801,0.106,1.131,0.241c0.035,0.015,0.07,0.027,0.104,0.044c0.153,0.069,0.297,0.151,0.428,0.246    c0.021,0.014,0.036,0.028,0.056,0.042c0.985,0.758,1.313,2.16,1.123,3.544C142.447,120.039,141.133,121.193,139.391,121.572z"
+               id="path6225" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern_hair1_r"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g6241">
+        <g
+           id="g6239">
+          <g
+             id="g6237">
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="50"
+               height="50"
+               id="rect6233" />
+            <circle
+               style="fill:#FFFFFF;"
+               cx="119.5"
+               cy="119.5"
+               r="17.5"
+               id="circle6235" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="cpattern_hair5"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="50"
+       height="50">
+      <g
+         transform="translate(-94.5,-94.5), scale(1,1)"
+         id="g6252">
+        <g
+           id="g6250">
+          <g
+             id="g6248">
+            <rect
+               x="94.5"
+               y="94.5"
+               style="fill:#3F3F3F;"
+               width="50"
+               height="50"
+               id="rect6244" />
+            <circle
+               style="fill:#FFFFFF;"
+               cx="119.5"
+               cy="119.5"
+               r="17.5"
+               id="circle6246" />
+          </g>
+        </g>
+      </g>
+    </pattern>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="头发"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="前发"
+       style="display:none">
+      <g
+         id="lcart_hair1_r"
+         paramParts="1"
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW="3"
+         transform="matrix(0.94272363,0,0,0.94272363,37.3191,37.3191)">
+        <g
+           id="g5640">
+          <path
+             style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             d="m 323.334,165 c -2.762,-26.692 -16.667,-55.667 -74.834,-54 -64.692,1.854 -79.5,59 -70.009,86.722 7.096,20.727 28.392,32.78 28.392,32.78 0,0 -17.123,-46.725 5.784,-61.168 10.333,-8.333 49,-17 49,-17 0,0 15.769,1.713 25.269,8.213 C 297,174.667 305.334,201 305.334,201 l 7.333,6.667 c 5.564,-7.381 12.667,-23.334 10.667,-42.667 z"
+             orgb=""
+             ostroke=""
+             id="path5638" />
+        </g>
+      </g>
+      <g
+         id="lcart_hair1_f"
+         paramParts=""
+         paramTx="0"
+         paramTy="0"
+         paramScx="0.9427235999999999"
+         paramScy="0.9427235999999999"
+         paramRev="0"
+         paramScale="1"
+         paramCol=""
+         paramColFrom=""
+         paramColTo=""
+         paramColLFrom=""
+         paramColLTo=""
+         paramColRFrom=""
+         paramColRTo=""
+         paramPtn=""
+         paramPrev="0"
+         paramPtnMode="0"
+         paramSW=""
+         transform="matrix(0.94272363,0,0,0.94272363,37.3191,37.3191)">
+        <g
+           id="g5667">
+          <g
+             id="g5665">
+            <path
+               style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="m 215.162,154.245 c 0,0 -22.488,30.981 -17.8,88.679 -11.342,-20.455 -15.613,-53.161 -11.979,-82.9"
+               orgb=""
+               ostroke=""
+               id="path5655" />
+            <path
+               style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="m 192.673,185.227 c 0,0 -6.273,46.893 12.153,80.079 -28.04,-17.482 -42.032,-80.475 -16.937,-124.056"
+               orgb=""
+               ostroke=""
+               id="path5657" />
+            <path
+               style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="m 297.511,177.758 c 0,0 7.656,59.474 -0.299,80.689 26.625,-24.75 23.332,-80.14 12.822,-115.183"
+               orgb=""
+               ostroke=""
+               id="path5659" />
+            <path
+               style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="m 258.667,147.333 c 0,0 32.254,28.742 40.41,64.58 4.025,-10.007 8.94,-53.764 -10.193,-75.804"
+               orgb=""
+               ostroke=""
+               id="path5661" />
+            <path
+               style="fill:#3f3f3f;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+               d="m 214.237,137.898 c 0,0 0.834,64.868 33.022,78.789 1.007,-2.502 -1.593,-4.711 -1.593,-4.711 l 5.903,3.151 c 0,0 -12.668,-41.724 -14.489,-49.239 9.739,20.585 21.703,48.653 22.631,50.19 5.673,-14.578 10.085,-49.621 0.529,-77.885"
+               orgb=""
+               ostroke=""
+               id="path5663" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="侧马尾" />
+  </g>
+</svg>
