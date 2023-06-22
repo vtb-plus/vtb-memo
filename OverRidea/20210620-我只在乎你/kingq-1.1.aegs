@@ -1,0 +1,54 @@
+%[ code once # fx @ 0
+
+main_style = "\\1c&HFFFFFF&";
+subs_style = "\\1c&HE68C0F&\\3c&HFFFFFF&";
+function append_tclip(tags, t1,t2, x1,y1, x2,y2)
+    if t1==0 and t2==0 then
+        return tags .. string.format("\\clip(%d,%d,%d,%d)", x1,y1, x2,y2);
+    else
+        return tags .. string.format("\\t(%d,%d,\\clip(%d,%d,%d,%d))", t1,t2, x1,y1, x2,y2);
+    end;
+end;
+
+%]
+
+
+%[ code line # fx @ 0
+
+fxgroup.apply_fx = (line.actor == "GoldenSong");
+ltags = "";
+rtags = "";
+last_start = 0;
+
+%]
+
+
+%[ code syl # fx @ 0
+
+fxgroup.is_last_style = (fxgroup.apply_fx and (syl.i == #line.kara));
+
+%]
+
+%[ code syl noblank # fx @ 0
+
+if fxgroup.apply_fx then;
+    this_left  = math.floor(line.left + syl.left);
+    
+    ltags = append_tclip(ltags, last_start, syl.start_time, line.left, line.top, this_left,  line.bottom);
+    rtags = append_tclip(rtags, last_start, syl.start_time, this_left, line.top, line.right, line.bottom);
+    last_start = syl.start_time;
+end;
+if fxgroup.is_last_style then;
+    ltags = append_tclip(ltags, last_start, syl.end_time, line.left,  line.top, line.right, line.bottom);
+    rtags = append_tclip(rtags, last_start, syl.end_time, line.right, line.top, line.right, line.bottom);
+end;
+
+%]
+
+
+%[ template syl fxgroup is_last_style notext # slider @ 0
+    !retime("line",0,0)!{\fad(0,50)!ltags!!subs_style!}!line.text_stripped!
+%]
+%[ template syl fxgroup is_last_style notext # fx @ 0
+    !retime("line",0,0)!{\fad(0,50)!rtags!!main_style!}!line.text_stripped!
+%]

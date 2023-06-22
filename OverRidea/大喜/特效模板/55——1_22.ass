@@ -1,0 +1,43 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video File: ?dummy:30.000000:1800:1920:1080:80:80:80:
+Video AR Value: 1.777778
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,思源黑体 CN Bold,80,&H00B6B6B6,&H00FFFFFF,&H008A8A8A,&H00000000,0,0,0,0,100,100,0,0,1,4,2,5,10,10,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code syl all,function char_counter(ref) ci[ref]=ci[ref]+1; return "" end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code line all,ci={0}; cn= _G.unicode.len(orgline.text_stripped:gsub(" ",""))
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,mau={"&H6C00FF&","&HFFFFFF&"}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,template noblank notext,!retime("presyl",-1500+(j-1)*25,(j-1)*25)!{\an5\bord2\c&HFFFFFF&\3c&H8F00FF&\blur5\fsc35\moves3(!$scenter+math.random(-30,30)!,!$smiddle+math.random(-90,90)!,!$lcenter+math.random(-30,30)!,!$smiddle+90/3.5!,$scenter,$smiddle)\p1}m 0 14 b 0 14 0 14 0 14 b 0 14 0 14 0 14 b 0 14 0 14 0 14 b 0 14 0 14 0 14 b 0 0 20 0 20 14 b 20 14 20 14 20 14 b 20 27 0 27 0 14
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,template noblank notext,!retime("presyl",-1500+(j-1)*25,(j-1)*25)!{\an5\bord2\c&HFFFFFF&\3c&H8F00FF&\blur5\fsc20\moves3(!$scenter+math.random(-30,30)!,!$smiddle+math.random(-90,90)!,!$lcenter+math.random(-60,60)!,!$smiddle+90/3.5!,$scenter,$smiddle)\p1}m 0 14 b 0 14 0 14 0 14 b 0 14 0 14 0 14 b 0 14 0 14 0 14 b 0 14 0 14 0 14 b 0 0 20 0 20 14 b 20 14 20 14 20 14 b 20 27 0 27 0 14
+Comment: 2,0:00:00.00,0:00:00.00,Default,hilight&lead-out,0,0,0,template syl,!retime("syl2end",-$dur,-$syln*100+syl.i*100)!{\an5\pos($center,$middle)\fad(0,300)\t(0,100,\bord3\blur3\3c&HFFFFFF&)\t(100,$dur,\bord1\blur1\3c&H0B0B79&\bord2\blur0\1vc(&H0E08FF&,&HFFFFFF&,&HFFFFFF&,&HFFFFFF&,&H0E08FF&)\fad(300,0)}
+Comment: 2,0:00:00.00,0:00:00.00,Default,hilight,0,0,0,template multi,!retime("syl",0,300)!{\an5\pos($center,$middle)\t(0,33,\fscx120\fscy120\bord0.5\blur4\3c!_G.ass_color(_G.HSV_to_RGB(10,j/maxj,1))!\c&HFFFFFF&\t(33,$dur,\fscx100\fscy100)\fad(0,300)}
+Comment: 1,0:00:00.00,0:00:00.00,Default,lead-in,0,0,0,template,!retime("start2syl",-1000+syl.i*60,0)!{\fad(1000,0)\blur3\an5\pos($center,$middle)\shad0\bord2\1a&HFF&\3c&HFFFFFF&\fscx100\fscy100}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code syl line all,leadin = "600" ; startleadin = "750"; twinkle = "m 33 31 b 38 27 30 20 26 24 b 22 29 28 36 33 31 m 27 32 l 9 49 l 26 31 m 33 26 l 51 7 l 32 24 m 34 30 l 49 47 l 33 32 m 27 24 l 10 8 l 26 25" ; starheart = {"m 23 0 l 15 12 l 0 16 l 10 27 l 9 42 l 23 36 l 37 42 l 36 27 l 46 16 l 31 12","m 22 42 b 29 28 43 23 43 13 b 44 3 29 -7 22 8 b 17 -7 -1 3 0 13 b 0 23 16 28 22 42 "}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code syl line all,function char_counter(ref) ci[ref] = ci[ref] + 1; return "" end ;   function AutoTags(Intervalo,Dato1,Dato2)            local RESULTADO=""     local SUERTE = 0     local CONTADOR = 0     local ARREGLO = 0                           local count = math.ceil(line.duration/Intervalo)                 			ARREGLO = {Dato1,Dato2}    			              for i = 1, count do               CONTADOR = i    	    	    		if Dato1 and Dato2 then     					if  CONTADOR%2 ==0 then    								SUERTE = ARREGLO[1]    					else    								SUERTE = ARREGLO[2]    					end	    		end     				    	RESULTADO = RESULTADO .."\\t(" ..(i-1)*Intervalo.. "," ..i*Intervalo.. ",\\" ..SUERTE..")"..""     			     end         		     return RESULTADO	  	    	               end ;
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code line all,ci = {0,0}; cn = _G.unicode.len(orgline.text_stripped:gsub(" ",""));
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code syl line all,c = {"&HFFE91D&","&H6CFF1D&","&H1DFFFD&","&H1DADFF&","&H871DFF&"} ; xno = {1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5} ; tuyet = { "m 25 0 l 34 15 l 50 19 l 40 33 l 41 49 l 25 43 l 11 50 l 11 33 l 0 21 l 15 15 l 25 0 "  ,"m 40 0 b -17 0 -17 81 41 81 b 101 81 101 1 40 0 ", "m 26 -1 b -9 -1 -9 50 26 50 b 65 50 65 -1 26 -1 ", "m 5 3 b 10 -3 25 -3 31 2 b 37 7 38 20 32 25 b 27 30 10 29 5 24 b -1 20 -2 8 5 3 "}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code line all,ci = { 0,0,0,0,0,0,0 }; cn = _G.unicode.len(orgline.text_stripped:gsub(" ",""))
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,Code once,love = {"m 0 -7 b 7 -22 17 -12 14 -4 b 14 0 0 11 0 13 b 0 11 -14 0 -14 -4 b -16 -12 -7 -22 0 -7 m -11 -11 b -13 -11 -13 -7 -10 -8 b -9 -8 -9 -11 -11 -11 m -13 -5 b -13 -1 -6 5 -2 8 b -1 9 0 8 -1 7 b -3 6 -11 -1 -12 -5 b -12 -6 -13 -6 -13 -5 ","m 0 -5 b 5 -17 13 -9 11 -3 b 11 0 0 9 0 10 b 0 9 -11 0 -11 -3 b -12 -9 -5 -17 0 -5 m -8 -9 b -10 -9 -10 -5 -8 -6 b -7 -6 -7 -9 -8 -9 m -10 -4 b -10 -1 -5 4 -2 6 b -1 7 0 6 -1 5 b -2 5 -8 -1 -9 -4 b -9 -5 -10 -5 -10 -4 ","m 0 -4 b 4 -13 9 -7 8 -3 b 8 -1 0 6 0 6 b 0 6 -8 -1 -8 -3 b -9 -7 -4 -13 0 -4 m -6 -7 b -7 -7 -7 -4 -6 -5 b -5 -5 -5 -7 -6 -7 m -7 -4 b -7 -1 -4 2 -1 4 b -1 4 0 4 -1 3 b -1 3 -6 -1 -6 -4 b -6 -4 -7 -4 -7 -4 "} ; xoay = {"-5000","5000","-7000","7000","3000","3000"} ; rotate = 0 ; randomcolor = {"&H0000FF&","&HDC6B23&","&H11BF00&","&H7200FF&","&H00F6FF&","&H0084FF&"} ; textcolor = 0
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,Code syl,randomFRZ = math.random(-200,200)
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once all,function char_counter(ref) ci[ref] = ci[ref] + 1; return "" end ;
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code syl all,ci = { 0,0 }; cn = _G.unicode.len(orgline.text_stripped:gsub(" ",""))
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,template notext noblank multi loop 30,!maxloop(math.ceil($dur/120))!!retime("presyl",set_temp("time",-50*math.random(0,($dur+1000-speed)/40)),temp.time+speed)!{\fad(0,200)\an5\pos(!$center+math.random(-0.6*$width,0.6*$width)!,!$middle+math.random(-0.6*$height,0.6*$height)!)\3vc(&H0E08FF&,&HFFFFFF&,&HFFFFFF&,&HFFFFFF&,&H0E08FF&)\frz45\shad0\bord0.5\blur5\p1}{!AutoTags(math.random(300,300),'fscx70\\fscy70\\alphaalp[math.random(2)]','fscx25\\fscy25\\alpha&0&')!}!stars!
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once all,function AutoTags(Intervalo,Dato1,Dato2)            local RESULTADO=""     local SUERTE = 0     local CONTADOR = 0     local ARREGLO = 0                           local count = math.ceil(line.duration/Intervalo)                 			ARREGLO = {Dato1,Dato2}    			              for i = 1, count do               CONTADOR = i    	    	    		if Dato1 and Dato2 then     					if  CONTADOR%2 ==0 then    								SUERTE = ARREGLO[1]    					else    								SUERTE = ARREGLO[2]    					end	    		end     				    	RESULTADO = RESULTADO .."\\t(" ..(i-1)*Intervalo.. "," ..i*Intervalo.. ",\\" ..SUERTE..")"..""     			     end         		     return RESULTADO	  	    	               end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once all,alp ={"&HAF&","&HFF&"}; stars = "m 30 23 b 24 23 24 33 30 33 b 36 33 37 23 30 23 m 35 27 l 60 28 l 35 29 m 26 27 l 0 28 l 26 29 m 29 23 l 30 0 l 31 23 m 29 33 l 30 56 l 31 33"
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code line all,temp = {}; function set_temp(ref,val) temp[ref] = val return val end; speed = 800
+Dialogue: 0,0:00:00.50,0:00:03.50,Default,中文,0,0,0,,{\kf23}我{\kf23}能{\kf23}吞{\kf23}下{\kf23}玻{\kf23}璃{\kf23}  {\kf23}而{\kf23}不{\kf23}伤{\kf23}身{\kf23}体{\kf23}
+
