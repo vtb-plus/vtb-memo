@@ -1,0 +1,99 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Never Enough
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.81,0:00:16.78,Default,,0,0,0,,I'm trying to hold my breath
+Dialogue: 0,0:00:16.81,0:00:21.40,Default,,0,0,0,,我试图屏住呼吸，
+Dialogue: 0,0:00:21.43,0:00:22.40,Default,,0,0,0,,Let it stay this way
+Dialogue: 0,0:00:22.43,0:00:25.52,Default,,0,0,0,,一直保持
+Dialogue: 0,0:00:25.55,0:00:26.52,Default,,0,0,0,,Can't let this moment end
+Dialogue: 0,0:00:26.55,0:00:30.41,Default,,0,0,0,,因为我不想让此刻结束。
+Dialogue: 0,0:00:30.44,0:00:31.41,Default,,0,0,0,,You set off a dream in me
+Dialogue: 0,0:00:31.44,0:00:36.16,Default,,0,0,0,,你点燃了我心中的梦想
+Dialogue: 0,0:00:36.19,0:00:37.16,Default,,0,0,0,,Getting louder now
+Dialogue: 0,0:00:37.19,0:00:39.64,Default,,0,0,0,,此刻梦想的声音逐渐变大
+Dialogue: 0,0:00:39.67,0:00:40.64,Default,,0,0,0,,Can you hear it echoing?
+Dialogue: 0,0:00:40.67,0:00:46.01,Default,,0,0,0,,你是否听到了它的回响？
+Dialogue: 0,0:00:46.04,0:00:47.01,Default,,0,0,0,,Take my hand
+Dialogue: 0,0:00:47.04,0:00:49.56,Default,,0,0,0,,握紧我的手，
+Dialogue: 0,0:00:49.59,0:00:50.56,Default,,0,0,0,,Will you share this with me?
+Dialogue: 0,0:00:50.59,0:00:53.58,Default,,0,0,0,,你能和我共同享受此刻吗
+Dialogue: 0,0:00:53.61,0:00:54.58,Default,,0,0,0,,'Cause darling without you
+Dialogue: 0,0:00:54.61,0:00:59.53,Default,,0,0,0,,亲爱的若没有你，
+Dialogue: 0,0:00:59.56,0:01:00.53,Default,,0,0,0,,All the shine of a\Nthousand spotlights
+Dialogue: 0,0:01:00.56,0:01:03.12,Default,,0,0,0,,千盏聚光灯汇聚的所有光芒，
+Dialogue: 0,0:01:03.15,0:01:04.12,Default,,0,0,0,,All the stars we steal from\Nthe nightsky will never be enough
+Dialogue: 0,0:01:04.15,0:01:10.47,Default,,0,0,0,,我们从夜空中偷走的所有星星，都不足够。
+Dialogue: 0,0:01:10.50,0:01:11.47,Default,,0,0,0,,Never be enough
+Dialogue: 0,0:01:11.50,0:01:14.41,Default,,0,0,0,,永不足够～
+Dialogue: 0,0:01:14.44,0:01:15.41,Default,,0,0,0,,Towers of gold are\Nstill too little
+Dialogue: 0,0:01:15.44,0:01:17.75,Default,,0,0,0,,就算是黄金楼在我眼里依旧渺小，
+Dialogue: 0,0:01:17.78,0:01:18.75,Default,,0,0,0,,These hands could hold the\Nworld but it'll never be enough
+Dialogue: 0,0:01:18.78,0:01:25.08,Default,,0,0,0,,我们可以触及到全世界，但这永远不够。
+Dialogue: 0,0:01:25.11,0:01:26.08,Default,,0,0,0,,Never be enough
+Dialogue: 0,0:01:26.11,0:01:30.30,Default,,0,0,0,,永不足够～
+Dialogue: 0,0:01:30.33,0:01:31.30,Default,,0,0,0,,For me
+Dialogue: 0,0:01:31.33,0:01:32.67,Default,,0,0,0,,对我来说，
+Dialogue: 0,0:01:32.70,0:01:33.67,Default,,0,0,0,,Never never
+Dialogue: 0,0:01:33.70,0:01:36.08,Default,,0,0,0,,永不将就～
+Dialogue: 0,0:01:36.11,0:01:37.08,Default,,0,0,0,,Never never
+Dialogue: 0,0:01:37.11,0:01:39.66,Default,,0,0,0,,永不停歇～
+Dialogue: 0,0:01:39.69,0:01:40.66,Default,,0,0,0,,Never
+Dialogue: 0,0:01:40.69,0:01:41.10,Default,,0,0,0,,永不知足～
+Dialogue: 0,0:01:41.13,0:01:42.10,Default,,0,0,0,,For me for me
+Dialogue: 0,0:01:42.13,0:01:45.46,Default,,0,0,0,,对我来说，
+Dialogue: 0,0:01:45.49,0:01:46.46,Default,,0,0,0,,Never enough
+Dialogue: 0,0:01:46.49,0:01:48.76,Default,,0,0,0,,永不将就～
+Dialogue: 0,0:01:48.79,0:01:49.76,Default,,0,0,0,,Never enough
+Dialogue: 0,0:01:49.79,0:01:52.42,Default,,0,0,0,,永不停歇～
+Dialogue: 0,0:01:52.45,0:01:53.42,Default,,0,0,0,,Never enough
+Dialogue: 0,0:01:53.45,0:01:55.83,Default,,0,0,0,,永不知足～
+Dialogue: 0,0:01:55.86,0:01:56.83,Default,,0,0,0,,For me for me
+Dialogue: 0,0:01:56.86,0:01:59.33,Default,,0,0,0,,对我来说，
+Dialogue: 0,0:01:59.36,0:02:00.33,Default,,0,0,0,,For me
+Dialogue: 0,0:02:00.36,0:02:03.82,Default,,0,0,0,,对我来说。
+Dialogue: 0,0:02:03.85,0:02:04.82,Default,,0,0,0,,All the shine of a\Nthousand spotlights
+Dialogue: 0,0:02:04.85,0:02:07.07,Default,,0,0,0,,千盏聚光灯汇聚的所有光芒，
+Dialogue: 0,0:02:07.10,0:02:08.07,Default,,0,0,0,,All the stars we steal from\Nthe nightsky will never be enough
+Dialogue: 0,0:02:08.10,0:02:14.22,Default,,0,0,0,,我们从夜空中偷走的所有星星，都不足够。
+Dialogue: 0,0:02:14.25,0:02:15.22,Default,,0,0,0,,Never be enough
+Dialogue: 0,0:02:15.25,0:02:17.98,Default,,0,0,0,,永不足够～
+Dialogue: 0,0:02:18.01,0:02:18.98,Default,,0,0,0,,Towers of gold are\Nstill too little
+Dialogue: 0,0:02:19.01,0:02:21.33,Default,,0,0,0,,就算是黄金楼在我眼里依旧渺小，
+Dialogue: 0,0:02:21.36,0:02:22.33,Default,,0,0,0,,These hands could hold the\Nworld but it'll never be enough
+Dialogue: 0,0:02:22.36,0:02:28.82,Default,,0,0,0,,我们可以触及全世界，但这永远不够。
+Dialogue: 0,0:02:28.85,0:02:29.82,Default,,0,0,0,,Never be enough
+Dialogue: 0,0:02:29.85,0:02:35.78,Default,,0,0,0,,永不足够～
+Dialogue: 0,0:02:35.81,0:02:36.78,Default,,0,0,0,,For me
+Dialogue: 0,0:02:36.81,0:02:38.34,Default,,0,0,0,,对我来说，
+Dialogue: 0,0:02:38.37,0:02:39.34,Default,,0,0,0,,Never never
+Dialogue: 0,0:02:39.37,0:02:41.67,Default,,0,0,0,,永不将就～
+Dialogue: 0,0:02:41.70,0:02:42.67,Default,,0,0,0,,Never never
+Dialogue: 0,0:02:42.70,0:02:44.92,Default,,0,0,0,,永不停歇～
+Dialogue: 0,0:02:44.95,0:02:45.92,Default,,0,0,0,,Never
+Dialogue: 0,0:02:45.95,0:02:46.61,Default,,0,0,0,,永不知足～
+Dialogue: 0,0:02:46.64,0:02:47.61,Default,,0,0,0,,For me for me
+Dialogue: 0,0:02:47.64,0:02:50.74,Default,,0,0,0,,对我来说，
+Dialogue: 0,0:02:50.77,0:02:51.74,Default,,0,0,0,,Never enough
+Dialogue: 0,0:02:51.77,0:02:52.75,Default,,0,0,0,,永不将就～
+Dialogue: 0,0:02:52.78,0:02:53.75,Default,,0,0,0,,Never never
+Dialogue: 0,0:02:53.78,0:02:54.42,Default,,0,0,0,,永不～
+Dialogue: 0,0:02:54.45,0:02:55.42,Default,,0,0,0,,Never enough
+Dialogue: 0,0:02:55.45,0:02:56.13,Default,,0,0,0,,永不停歇～
+Dialogue: 0,0:02:56.16,0:02:57.13,Default,,0,0,0,,Never never
+Dialogue: 0,0:02:57.16,0:02:58.01,Default,,0,0,0,,永不～
+Dialogue: 0,0:02:58.04,0:02:59.01,Default,,0,0,0,,Never enough
+Dialogue: 0,0:02:59.04,0:03:01.13,Default,,0,0,0,,永不知足～
+Dialogue: 0,0:03:01.16,0:03:02.13,Default,,0,0,0,,For me for me
+Dialogue: 0,0:03:02.16,0:03:04.81,Default,,0,0,0,,对我来说，
+Dialogue: 0,0:03:04.84,0:03:05.81,Default,,0,0,0,,For me for me
+Dialogue: 0,0:03:05.84,0:03:08.34,Default,,0,0,0,,对我来说。

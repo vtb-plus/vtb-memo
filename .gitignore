@@ -1,11 +1,22 @@
 # video
 *.mp4
 *.flv
+*.mkv
+# sound
 *.mp3
+*.aac
+*.wav
 
-#
+# img
 *.png
 *.jpg
 *.gif
 *.webp
 *.psd
+
+# doc
+*.pdf
+*.docx
+
+# font
+*.ttf
