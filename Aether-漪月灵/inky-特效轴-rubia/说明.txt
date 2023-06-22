@@ -1,0 +1,15 @@
+字体协议 OTF https://fonts.google.com/specimen/Marck+Script#standard-styles
+
+该特效字幕尚未投稿，因为切片被抢发了
+「Rubia」帕里新女儿献唱《崩坏3》符华印象曲：https://www.bilibili.com/video/BV15N411974y
+
+特效参考
+【叽歌切片】崩坏三·Rubia：https://www.bilibili.com/video/BV1WU4y1x7bQ
+
+渲染测试
++ VLC 3.0.12
++ Aeg 3.2.2 / Aeg 3.3.2 (WQR)
++ 字幕渲染后端：libass
++ 压制输出：ShanaEncoder 5.2 @ MP4 + 音频复制
+
+——inky
